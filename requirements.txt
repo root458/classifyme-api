@@ -1,2 +1,5 @@
-flask>=2.0.0
+category_encoders==2.6.0
+Flask==2.3.2
+pandas==2.0.1
+surprise==0.1
 gunicorn>=20.1.0
