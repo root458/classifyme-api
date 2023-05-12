@@ -132,7 +132,7 @@ def get_course_recommendations(user_id, df, courses_catalogue):
 
 app = Flask(__name__)
 
-@app.route('/recommendations', methods=['POST'])
+@app.route('/recommendations', methods=['GET', 'POST'])
 def predict():
     # Get user input as JSON
     input_data = request.get_json()
