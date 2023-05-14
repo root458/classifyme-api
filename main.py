@@ -166,5 +166,12 @@ def predict():
     # print(predictions)
     return jsonify({'recommended_courses': predictions})
 
+# Define middleware function
+@app.before_request
+def middleware():
+    # Log the request method and path
+    print(request.method, request.path)
+    print(request.headers)
+
 if __name__ == "__main__":
     app.run()
