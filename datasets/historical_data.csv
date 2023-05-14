@@ -1,0 +1,1001 @@
+ID,First_Name,Last_Name,English,Kiswahili,Mathematics,Physics,Biology,Chemistry,Overall Grade,Interest,Cluster Points,Course
+S001,Scarlett,Layla,10,9,10,7,6,10,61,Public Health,35.424,Health Records and Information Technology
+S002,Amelia,Zoey,12,11,6,7,12,7,67,Pharmacy,38.143,Not elligible
+S003,Emma,Aubrey,7,8,7,8,12,12,81,Laboratories,43.028,Medical Laboratory Sciences
+S004,Luna,Cooper,11,8,7,6,11,12,63,Nursing,38.419,Palliative Care and Hospice Services
+S005,Jackson,Adams,7,6,10,10,10,9,64,Surgery,36.285,Not elligible
+S006,Baker,Cooper,9,11,6,9,9,12,55,Medical Research,35.897,Not elligible
+S007,Allen,Walker,12,10,9,11,9,11,62,Medical Research,39.031,Clinical Research
+S008,Moore,Hazel,10,6,10,9,11,10,73,Nursing,41.356,Palliative Care and Hospice Services
+S009,Charlotte,Aria,9,7,12,7,9,7,57,Laboratories,34.715,Not elligible
+S010,Amelia,Lily,12,8,9,12,12,10,74,Laboratories,44.104,Medical Illustration and Animation
+S011,Violet,Ava,9,10,12,12,11,11,73,Therapy,42.842,Clinical Psychology
+S012,Mitchell,Savannah,9,11,6,7,11,9,60,Nursing,36.095,Palliative Care and Hospice Services
+S013,Rodriguez,Simpson,9,10,8,12,8,7,82,Laboratories,41.638,Medical Illustration and Animation
+S014,Brooklyn,Smith,12,6,9,6,11,7,57,Laboratories,35.641,Medical Illustration and Animation
+S015,Johnson,Ava,12,7,6,7,7,8,71,Therapy,37.141,Nutrition and Dietetics
+S016,Emma,Evans,10,9,8,8,6,10,84,Pharmacy,40.398,Not elligible
+S017,Camila,Evans,8,8,12,7,10,12,83,Pharmacy,44.632,Pharmacy
+S018,Aubrey,Carter,7,8,11,12,10,11,68,Medical Research,39.914,Epidemiology and Biostatistics
+S019,Zoe,Martinez,7,8,9,9,9,9,62,Pharmacy,35.214,Not elligible
+S020,Wilson,Ava,11,11,8,9,9,11,70,Therapy,40.0,Radiography
+S021,Nelson,Brown,12,12,7,6,11,8,60,Medical Research,36.095,Not elligible
+S022,Smith,Aubrey,8,10,11,9,9,11,80,Laboratories,43.293,Medical Biotechnology
+S023,Luna,Reyes,7,12,8,12,6,10,63,Surgery,37.947,Not elligible
+S024,Parker,Camila,8,9,9,7,8,11,76,Medical Research,40.086,Medical Imaging Sciences
+S025,Edwards,Ellie,7,11,10,10,8,9,76,Surgery,40.624,Not elligible
+S026,Cooper,Simpson,10,11,10,8,11,9,64,Therapy,38.722,Orthotics and Prosthetics
+S027,Moore,Stella,9,8,6,9,8,11,71,Therapy,38.745,Orthotics and Prosthetics
+S028,Turner,Isabella,7,11,11,6,6,12,75,Public Health,41.404,Health Records and Information Technology
+S029,Reyes,Aria,11,9,9,6,7,8,55,Surgery,33.166,Not elligible
+S030,Hannah,Emma,8,10,8,8,11,12,66,Therapy,39.323,Radiography
+S031,Morgan,Nora,8,9,7,8,12,8,57,Nursing,34.715,Palliative Care and Hospice Services
+S032,Hannah,King,9,8,7,8,7,9,72,Nursing,36.847,Palliative Care and Hospice Services
+S033,Amelia,Harris,12,9,12,9,11,7,63,Laboratories,38.884,Medical Biotechnology
+S034,Addison,Williams,12,11,11,11,10,10,62,Medical Research,39.031,Epidemiology and Biostatistics
+S035,Hall,Green,6,9,8,8,8,10,57,Pharmacy,33.764,Not elligible
+S036,Audrey,Nelson,6,12,7,10,9,10,63,Public Health,38.419,Reproductive Health
+S037,Aurora,Sofia,8,10,10,11,6,12,75,Therapy,40.883,Speech Therapy
+S038,Isabella,Aubrey,10,12,10,8,6,7,69,Public Health,37.148,Health Records and Information Technology
+S039,Davis,Scott,11,9,10,11,10,8,62,Surgery,37.645,Not elligible
+S040,Lee,Aubrey,11,12,12,10,11,11,73,Surgery,43.805,Dental Surgery
+S041,Anderson,Evelyn,8,9,8,9,6,6,57,Nursing,31.259,Not elligible
+S042,Williams,Jackson,12,6,8,10,8,6,81,Pharmacy,40.82,Not elligible
+S043,Gonzalez,Allen,8,10,9,11,7,12,67,Nursing,39.133,Palliative Care and Hospice Services
+S044,Turner,Mia,6,7,8,10,8,7,74,Nursing,36.785,Palliative Care and Hospice Services
+S045,Jones,Campbell,11,10,6,9,9,7,67,Medical Research,37.125,Epidemiology and Biostatistics
+S046,Mia,Mila,11,6,12,12,10,11,74,Pharmacy,43.134,Pharmacy
+S047,Eleanor,Chloe,6,7,7,6,10,11,70,Nursing,37.417,Palliative Care and Hospice Services
+S048,Abigail,Claire,8,9,11,10,12,11,59,Public Health,38.075,Public Health
+S049,Baker,Harris,12,12,6,6,6,7,56,Pharmacy,31.496,Not elligible
+S050,Turner,Aubrey,7,9,9,8,10,8,63,Public Health,36.0,Health Education and Promotion
+S051,Cook,Grace,12,12,6,11,11,9,67,Therapy,40.574,Clinical Psychology
+S052,Madison,Sofia,10,9,12,11,7,6,77,Medical Research,39.243,Epidemiology and Biostatistics
+S053,Lee,Hall,7,11,9,7,9,12,76,Laboratories,42.197,Forensic Science
+S054,Leah,Allen,10,10,8,9,11,10,84,Pharmacy,43.818,Pharmacy
+S055,Cook,Cooper,11,7,8,11,12,9,83,Laboratories,45.16,Forensic Science
+S056,Lillian,Bella,7,6,7,12,12,11,69,Nursing,40.694,Palliative Care and Hospice Services
+S057,Gomez,Jones,6,6,8,10,7,9,57,Therapy,32.284,Not elligible
+S058,Parker,Madison,10,6,11,10,11,10,74,Pharmacy,42.143,Pharmacy
+S059,Zoey,Claire,11,11,10,7,10,6,71,Medical Research,38.745,Epidemiology and Biostatistics
+S060,Rivera,Baker,10,12,11,10,12,11,58,Nursing,39.046,Palliative Care and Hospice Services
+S061,Aubrey,Stella,9,6,7,12,10,9,57,Laboratories,36.095,Medical Illustration and Animation
+S062,Brown,Anderson,7,8,11,9,10,7,65,Medical Research,36.567,Not elligible
+S063,Reyes,Avery,11,8,9,11,10,10,78,Therapy,43.267,Nutrition and Dietetics
+S064,Elizabeth,Mitchell,6,7,10,7,11,9,70,Therapy,38.471,Orthotics and Prosthetics
+S065,Sophia,Claire,8,11,6,11,8,11,75,Public Health,41.918,Reproductive Health
+S066,Camila,Abigail,11,12,10,9,8,9,69,Nursing,39.214,Palliative Care and Hospice Services
+S067,Carter,Johnson,7,11,10,10,6,6,61,Nursing,33.916,Not elligible
+S068,Miller,Allen,6,10,12,7,7,8,80,Nursing,41.127,Nursing
+S069,Edwards,Ava,9,8,9,11,12,12,61,Therapy,39.163,Orthotics and Prosthetics
+S070,Martinez,Scarlett,6,9,8,7,9,10,72,Nursing,38.486,Palliative Care and Hospice Services
+S071,Madison,Emma,9,8,8,12,12,11,59,Pharmacy,38.515,Not elligible
+S072,Edwards,Young,8,7,11,9,11,12,58,Surgery,37.31,Not elligible
+S073,Rodriguez,Scarlett,12,8,11,10,12,10,82,Laboratories,45.919,Forensic Science
+S074,Camila,Lily,8,11,6,9,10,11,76,Therapy,42.197,Speech Therapy
+S075,Audrey,Mila,11,8,11,10,12,9,66,Laboratories,40.271,Medical Physics
+S076,Scarlett,Scott,11,9,9,10,6,8,59,Medical Research,34.351,Not elligible
+S077,Sofia,Nelson,11,11,9,7,7,12,70,Therapy,39.497,Clinical Psychology
+S078,Reed,Ava,9,6,12,11,11,12,62,Laboratories,39.482,Medical Biotechnology
+S079,Wilson,Ava,8,9,9,12,8,6,81,Medical Research,40.249,Epidemiology and Biostatistics
+S080,Wilson,Mitchell,9,6,8,10,6,6,72,Nursing,35.713,Palliative Care and Hospice Services
+S081,Edwards,Johnson,8,9,6,8,7,10,82,Therapy,39.914,Radiography
+S082,Jones,Adams,9,11,11,12,11,9,81,Nursing,44.613,Palliative Care and Hospice Services
+S083,Isabella,Brooklyn,12,9,8,10,8,12,74,Surgery,42.143,Dental Surgery
+S084,Walker,Garcia,9,9,10,6,10,8,65,Pharmacy,37.071,Not elligible
+S085,Grace,Adams,12,11,11,11,7,8,84,Public Health,42.708,Health Education and Promotion
+S086,Miller,Hazel,12,10,12,8,8,6,56,Nursing,34.871,Palliative Care and Hospice Services
+S087,Luna,Hannah,10,12,6,11,8,8,58,Surgery,35.952,Not elligible
+S088,Lily,Green,12,7,8,9,8,11,57,Medical Research,36.095,Not elligible
+S089,Eleanor,Wright,7,11,11,10,7,7,61,Laboratories,35.424,Medical Illustration and Animation
+S090,Hazel,Ellie,6,11,11,9,10,7,63,Surgery,37.47,Not elligible
+S091,Riley,Allen,8,7,12,12,10,12,57,Therapy,36.986,Nutrition and Dietetics
+S092,Young,Harper,10,9,10,10,10,12,59,Therapy,37.63,Nutrition and Dietetics
+S093,Adams,Ava,6,12,6,7,11,11,72,Nursing,41.071,Palliative Care and Hospice Services
+S094,Chloe,Eleanor,7,12,9,9,11,11,76,Surgery,43.214,Dental Surgery
+S095,Miller,Cook,10,7,9,7,8,12,76,Nursing,41.155,Palliative Care and Hospice Services
+S096,Green,Lopez,7,10,11,9,11,11,74,Therapy,42.641,Clinical Psychology
+S097,Madison,Cook,12,11,10,6,11,9,83,Therapy,44.632,Occupational Therapy
+S098,Lee,Ella,11,6,10,11,8,8,74,Pharmacy,40.086,Not elligible
+S099,Anderson,Garcia,6,8,8,9,12,8,58,Medical Research,35.018,Not elligible
+S100,Claire,Morgan,11,11,12,11,6,7,84,Medical Research,41.569,Medical Anthropology
+S101,Parker,Sophia,7,6,8,8,9,9,83,Nursing,39.562,Palliative Care and Hospice Services
+S102,Campbell,Smith,8,9,8,10,11,9,71,Surgery,39.778,Not elligible
+S103,Charlotte,Harper,8,12,8,12,12,6,74,Therapy,42.143,Optometry
+S104,Carter,Evans,11,11,10,12,9,11,74,Nursing,42.641,Nursing
+S105,Wilson,Elizabeth,6,7,6,8,9,9,76,Nursing,37.857,Palliative Care and Hospice Services
+S106,Lopez,Walker,6,6,6,9,11,9,71,Therapy,37.683,Nutrition and Dietetics
+S107,Nelson,Emily,7,8,8,10,12,9,60,Laboratories,36.567,Medical Illustration and Animation
+S108,Scarlett,Wright,8,8,9,9,7,11,83,Laboratories,40.743,Forensic Science
+S109,Aubrey,Baker,12,10,10,10,11,8,77,Pharmacy,42.474,Pharmacy
+S110,Sophia,Adams,11,8,6,9,12,12,70,Pharmacy,41.952,Not elligible
+S111,Zoe,Moore,7,6,11,6,10,11,70,Nursing,39.497,Nursing
+S112,Aria,Davis,6,7,6,12,10,9,59,Nursing,35.793,Palliative Care and Hospice Services
+S113,Sofia,Natalie,12,6,12,10,6,11,74,Therapy,41.638,Optometry
+S114,Mitchell,Sophia,9,6,6,8,9,10,83,Medical Research,41.321,Epidemiology and Biostatistics
+S115,Aurora,Walker,10,7,7,10,12,10,74,Public Health,42.143,Environmental Health
+S116,Madison,Natalie,9,10,10,10,9,8,74,Pharmacy,39.555,Not elligible
+S117,Lily,Barnes,8,11,12,7,10,8,79,Pharmacy,43.022,Pharmacy
+S118,Taylor,Luna,12,10,6,10,11,11,84,Pharmacy,45.957,Pharmacy
+S119,Reed,Madison,10,7,9,7,8,6,69,Laboratories,36.071,Medical Illustration and Animation
+S120,Smith,Eleanor,10,6,7,8,9,7,68,Laboratories,36.348,Medical Illustration and Animation
+S121,Audrey,Scott,10,11,10,10,8,6,55,Therapy,33.166,Not elligible
+S122,Aubrey,Smith,11,12,12,8,7,8,75,Surgery,40.883,Not elligible
+S123,Lopez,Walker,8,12,6,6,8,12,76,Laboratories,40.624,Forensic Science
+S124,Wilson,Taylor,8,12,11,7,9,6,71,Medical Research,39.265,Epidemiology and Biostatistics
+S125,Cooper,Evelyn,11,9,12,11,8,6,74,Medical Research,39.555,Clinical Research
+S126,Mitchell,Olivia,11,12,11,12,9,6,55,Laboratories,35.01,Medical Illustration and Animation
+S127,Johnson,Emma,11,9,12,9,7,9,80,Public Health,42.224,Health Records and Information Technology
+S128,Smith,Morgan,9,6,12,9,12,7,73,Therapy,40.848,Physiotherapy
+S129,Leah,Parker,12,11,12,11,12,9,72,Laboratories,43.028,Medical Laboratory Sciences
+S130,Hazel,Reed,6,6,8,10,9,9,65,Nursing,35.537,Palliative Care and Hospice Services
+S131,Rivera,Aubrey,10,8,12,6,7,12,56,Laboratories,36.222,Medical Illustration and Animation
+S132,Perez,Hazel,6,8,7,12,11,6,82,Pharmacy,41.638,Not elligible
+S133,Lopez,Ella,12,9,12,9,6,10,68,Laboratories,39.424,Medical Physics
+S134,Garcia,Emily,12,9,9,10,11,12,81,Laboratories,45.638,Medical Illustration and Animation
+S135,Martinez,Sophia,11,8,12,6,12,8,60,Nursing,38.396,Palliative Care and Hospice Services
+S136,Perez,Johnson,12,12,7,11,6,7,62,Pharmacy,35.713,Not elligible
+S137,Harper,Abigail,10,7,9,7,10,12,71,Therapy,40.785,Clinical Psychology
+S138,Camila,Williams,9,6,12,9,7,6,68,Public Health,36.348,Health Education and Promotion
+S139,Walker,Cook,6,10,8,11,11,9,63,Surgery,38.419,Not elligible
+S140,Ava,Scott,10,11,10,7,6,8,67,Laboratories,36.606,Medical Illustration and Animation
+S141,Nora,Miller,8,10,11,7,10,7,58,Surgery,35.488,Not elligible
+S142,Cook,Brooklyn,10,7,9,10,10,12,59,Surgery,37.63,Not elligible
+S143,Mia,Mitchell,6,6,9,7,6,10,72,Medical Research,35.713,Not elligible
+S144,Wright,Brown,12,8,11,6,7,8,70,Medical Research,38.987,Clinical Research
+S145,Lee,Scarlett,9,7,9,12,12,12,68,Medical Research,41.816,Clinical Research
+S146,Hall,Williams,6,8,12,7,10,9,65,Public Health,38.06,Reproductive Health
+S147,Layla,Gomez,9,7,7,11,9,9,79,Therapy,41.418,Occupational Therapy
+S148,Taylor,Bella,8,7,8,6,7,11,61,Therapy,34.426,Not elligible
+S149,Harris,Audrey,7,8,6,10,12,11,74,Public Health,41.638,Health Systems Management
+S150,Aubrey,Claire,9,11,9,8,9,10,73,Nursing,40.334,Nursing
+S151,Lee,Barnes,11,11,12,10,12,8,56,Therapy,37.094,Nutrition and Dietetics
+S152,Edwards,Wilson,10,9,9,8,11,12,61,Surgery,38.262,Not elligible
+S153,Aurora,Garcia,8,7,8,8,11,9,76,Medical Research,39.54,Medical Anthropology
+S154,Cook,Edwards,11,12,12,7,6,6,66,Nursing,36.847,Palliative Care and Hospice Services
+S155,Grace,Rodriguez,12,9,9,12,7,6,60,Medical Research,35.617,Not elligible
+S156,Mitchell,Aria,8,6,12,11,11,7,77,Pharmacy,40.89,Not elligible
+S157,Ava,Savannah,11,10,6,6,9,8,75,Medical Research,38.173,Clinical Research
+S158,Ellie,Rodriguez,11,6,7,6,6,8,57,Pharmacy,32.284,Not elligible
+S159,Smith,Young,11,8,9,11,6,6,61,Nursing,34.426,Palliative Care and Hospice Services
+S160,Zoe,Victoria,9,7,9,9,7,9,56,Medical Research,32.985,Not elligible
+S161,Wright,Sofia,8,11,9,10,6,11,68,Laboratories,38.426,Medical Biotechnology
+S162,Johnson,Leah,7,6,8,7,7,7,77,Surgery,35.721,Not elligible
+S163,Hannah,Johnson,6,11,10,6,11,7,67,Pharmacy,38.641,Not elligible
+S164,Scarlett,Elizabeth,9,12,12,9,7,12,72,Surgery,42.061,Not elligible
+S165,Reed,King,9,6,6,7,8,10,83,Surgery,40.157,Not elligible
+S166,Lopez,Chloe,9,8,7,9,11,8,71,Nursing,38.745,Palliative Care and Hospice Services
+S167,Elizabeth,Evans,10,9,6,9,9,6,74,Medical Research,37.917,Epidemiology and Biostatistics
+S168,Cooper,Lily,6,9,12,10,12,6,68,Therapy,38.929,Orthotics and Prosthetics
+S169,Aurora,Brooklyn,8,6,7,7,10,6,68,Therapy,34.707,Not elligible
+S170,Campbell,Bella,9,6,12,9,7,6,62,Medical Research,34.707,Not elligible
+S171,Violet,Amelia,6,7,10,6,11,11,64,Nursing,37.766,Palliative Care and Hospice Services
+S172,Zoey,Harris,11,6,8,10,7,7,62,Surgery,35.214,Not elligible
+S173,Lewis,Sophia,12,9,11,10,8,9,61,Nursing,37.34,Palliative Care and Hospice Services
+S174,Sofia,Mia,8,6,10,9,11,7,71,Public Health,38.217,Public Health
+S175,Simpson,Evelyn,6,7,10,6,10,10,76,Pharmacy,40.086,Not elligible
+S176,Camila,Lee,6,12,9,9,9,7,83,Public Health,41.891,Environmental Health
+S177,Claire,Green,6,7,11,9,6,9,73,Laboratories,37.102,Medical Illustration and Animation
+S178,Abigail,Aubrey,10,9,10,11,12,12,78,Surgery,44.785,Medicine and Surgery
+S179,Martinez,Jackson,6,7,6,9,7,6,78,Surgery,35.952,Not elligible
+S180,Cook,Camila,10,8,8,8,6,7,78,Laboratories,37.171,Medical Illustration and Animation
+S181,Isabella,Davis,6,7,12,10,8,6,84,Public Health,39.799,Health Systems Management
+S182,Leah,Moore,7,12,7,8,12,9,63,Surgery,38.419,Not elligible
+S183,Stella,Mia,7,11,12,10,11,10,64,Nursing,40.114,Nursing
+S184,Rodriguez,Aubrey,8,12,8,7,10,12,68,Surgery,40.398,Not elligible
+S185,Nora,Young,7,11,6,7,6,12,67,Nursing,37.125,Palliative Care and Hospice Services
+S186,Claire,Olivia,8,9,8,8,10,11,64,Medical Research,37.279,Clinical Research
+S187,Martinez,Mia,7,7,7,11,10,6,70,Pharmacy,36.878,Not elligible
+S188,Aurora,Harris,7,6,10,8,11,9,57,Pharmacy,34.715,Not elligible
+S189,Harper,Ava,10,6,10,10,8,8,65,Public Health,36.567,Environmental Health
+S190,Baker,Hannah,6,11,12,8,11,7,65,Pharmacy,39.024,Not elligible
+S191,Turner,Emma,6,12,7,11,12,8,81,Pharmacy,44.613,Pharmacy
+S192,Ava,Violet,6,12,10,8,7,11,81,Pharmacy,43.028,Pharmacy
+S193,Sofia,Lee,11,8,9,7,8,10,59,Nursing,35.793,Palliative Care and Hospice Services
+S194,Riley,Carter,6,6,12,9,8,8,78,Pharmacy,38.929,Not elligible
+S195,Lopez,Abigail,6,10,11,12,7,6,57,Therapy,33.764,Not elligible
+S196,Eleanor,Violet,12,11,8,12,11,7,82,Pharmacy,44.362,Pharmacy
+S197,Aubrey,Cook,9,7,7,7,9,6,60,Pharmacy,32.601,Not elligible
+S198,Chloe,Reed,9,9,12,10,8,12,78,Therapy,42.748,Speech Therapy
+S199,Turner,Aurora,12,12,7,12,11,9,59,Nursing,38.515,Palliative Care and Hospice Services
+S200,Grace,Hall,6,6,11,6,6,8,84,Therapy,38.575,Nutrition and Dietetics
+S201,Evans,Edwards,9,11,10,12,6,12,62,Public Health,38.113,Environmental Health
+S202,Hannah,Young,11,12,12,8,9,9,82,Nursing,44.362,Nursing
+S203,Lee,Anderson,10,10,10,12,7,12,67,Pharmacy,39.62,Not elligible
+S204,Penelope,Grace,11,6,12,7,10,7,57,Pharmacy,36.095,Not elligible
+S205,Rodriguez,Camila,8,10,11,7,8,9,57,Therapy,35.181,Not elligible
+S206,Campbell,Hall,8,6,10,8,6,6,70,Pharmacy,34.641,Not elligible
+S207,Aubrey,Parker,9,12,10,12,10,9,71,Public Health,41.768,Reproductive Health
+S208,Leah,Young,12,12,8,10,9,6,74,Nursing,39.555,Nursing
+S209,Taylor,Baker,10,7,8,8,9,10,64,Medical Research,36.785,Clinical Research
+S210,Edwards,Ella,9,6,10,10,10,11,64,Public Health,38.247,Reproductive Health
+S211,Edwards,Sofia,7,10,12,11,11,6,70,Surgery,39.497,Not elligible
+S212,King,Moore,6,12,11,11,9,9,74,Nursing,41.638,Palliative Care and Hospice Services
+S213,Penelope,Emma,8,9,9,7,11,10,60,Surgery,36.567,Not elligible
+S214,Johnson,Abigail,11,9,11,11,8,6,84,Laboratories,41.569,Medical Laboratory Sciences
+S215,Natalie,Penelope,12,6,10,8,9,9,66,Nursing,38.84,Palliative Care and Hospice Services
+S216,Abigail,Gomez,11,11,7,9,7,9,59,Therapy,34.838,Not elligible
+S217,Jackson,Edwards,10,7,8,8,9,8,76,Therapy,38.987,Radiography
+S218,Barnes,Nelson,12,10,8,8,12,12,82,Therapy,45.406,Clinical Psychology
+S219,Carter,Claire,8,8,6,12,11,12,57,Surgery,37.424,Not elligible
+S220,Harper,Jackson,9,10,8,6,7,10,77,Public Health,39.243,Health Systems Management
+S221,Turner,Miller,10,9,8,12,11,6,59,Public Health,36.261,Environmental Health
+S222,Campbell,Williams,10,7,11,10,11,12,83,Medical Research,45.682,Epidemiology and Biostatistics
+S223,Zoe,Jones,12,12,10,6,10,7,58,Public Health,35.952,Environmental Health
+S224,Bella,Johnson,11,6,9,11,6,10,84,Medical Research,42.708,Medical Anthropology
+S225,Moore,Anderson,9,11,10,9,8,8,80,Public Health,41.127,Health Records and Information Technology
+S226,Emma,Garcia,10,10,10,6,7,6,55,Medical Research,32.205,Not elligible
+S227,Amelia,Stella,6,10,9,7,12,9,71,Nursing,40.285,Nursing
+S228,Wilson,Lewis,8,12,8,7,12,12,74,Medical Research,43.134,Clinical Research
+S229,Eleanor,Chloe,9,11,6,12,6,10,68,Surgery,38.929,Not elligible
+S230,Evans,Luna,11,7,8,7,10,6,68,Nursing,36.878,Palliative Care and Hospice Services
+S231,Wright,Eleanor,6,9,7,6,12,6,80,Medical Research,39.424,Medical Anthropology
+S232,Brown,Jones,7,7,11,6,8,9,84,Surgery,40.988,Not elligible
+S233,Rodriguez,Martinez,6,6,9,6,6,12,73,Therapy,37.102,Nutrition and Dietetics
+S234,Carter,Aubrey,12,12,6,7,8,8,75,Surgery,38.73,Not elligible
+S235,Brown,Sophia,12,7,12,12,8,8,62,Medical Research,37.645,Epidemiology and Biostatistics
+S236,Stella,Jones,12,11,10,8,9,6,67,Nursing,37.637,Palliative Care and Hospice Services
+S237,Young,Reyes,7,10,10,9,8,6,69,Pharmacy,36.614,Not elligible
+S238,Layla,Rivera,12,10,6,9,11,11,57,Medical Research,37.424,Epidemiology and Biostatistics
+S239,Moore,Reed,11,9,11,12,8,8,56,Pharmacy,35.327,Not elligible
+S240,Victoria,Williams,9,8,12,11,9,12,66,Medical Research,39.799,Epidemiology and Biostatistics
+S241,Young,Olivia,6,7,7,11,8,8,65,Laboratories,35.537,Medical Illustration and Animation
+S242,Mia,Gomez,9,12,10,6,12,6,59,Pharmacy,36.723,Not elligible
+S243,Cook,Madison,11,8,12,8,11,9,81,Public Health,44.613,Health Education and Promotion
+S244,Hazel,Madison,7,11,6,11,10,10,63,Nursing,38.884,Palliative Care and Hospice Services
+S245,Madison,Smith,9,11,8,6,6,6,70,Medical Research,35.214,Not elligible
+S246,Aria,Allen,7,9,6,8,11,12,58,Pharmacy,36.41,Not elligible
+S247,Mila,Nora,8,9,10,11,6,11,66,Therapy,37.355,Nutrition and Dietetics
+S248,Brooklyn,Riley,10,6,12,9,7,10,55,Pharmacy,35.01,Not elligible
+S249,Allen,Hall,8,10,9,7,11,7,73,Therapy,39.286,Nutrition and Dietetics
+S250,Morgan,Hazel,6,12,8,11,8,7,72,Nursing,39.54,Palliative Care and Hospice Services
+S251,Sofia,Abigail,9,8,7,7,8,7,58,Surgery,32.054,Not elligible
+S252,Simpson,Nora,11,8,10,10,10,11,83,Surgery,44.632,Medicine and Surgery
+S253,Williams,Scott,6,9,7,6,7,10,67,Pharmacy,35.545,Not elligible
+S254,Reyes,Allen,6,9,12,9,10,8,79,Pharmacy,41.959,Not elligible
+S255,Evans,Gonzalez,6,9,12,12,10,11,77,Medical Research,42.988,Clinical Research
+S256,Olivia,Brooklyn,8,6,10,7,9,7,71,Pharmacy,37.141,Not elligible
+S257,Adams,Ellie,8,8,6,12,11,7,80,Public Health,41.679,Health Systems Management
+S258,Barnes,Riley,12,12,7,11,10,6,75,Public Health,40.883,Health Education and Promotion
+S259,Johnson,Campbell,10,9,10,10,7,9,68,Therapy,37.401,Nutrition and Dietetics
+S260,Scott,Davis,11,8,11,9,7,8,63,Surgery,36.497,Not elligible
+S261,Harper,Gomez,6,11,8,12,6,8,81,Therapy,41.383,Occupational Therapy
+S262,Brooklyn,Smith,12,11,6,7,8,10,78,Nursing,40.61,Palliative Care and Hospice Services
+S263,Walker,Taylor,10,9,7,11,10,12,62,Therapy,39.031,Radiography
+S264,Scarlett,Audrey,12,7,7,12,9,11,83,Public Health,45.682,Health Education and Promotion
+S265,Anderson,Hall,9,6,10,10,9,12,55,Surgery,35.456,Not elligible
+S266,Campbell,Mila,6,9,8,8,7,12,55,Therapy,33.637,Not elligible
+S267,Cook,Evans,6,6,9,12,6,10,67,Public Health,36.079,Environmental Health
+S268,Taylor,Olivia,11,7,12,9,6,10,65,Therapy,38.06,Nutrition and Dietetics
+S269,Evelyn,Jackson,7,9,8,10,11,10,67,Public Health,39.133,Health Systems Management
+S270,Morgan,Evelyn,9,12,6,7,12,10,74,Pharmacy,41.638,Not elligible
+S271,Riley,Baker,12,8,9,8,11,6,64,Laboratories,37.279,Medical Biotechnology
+S272,Johnson,Isabella,7,8,8,10,11,11,70,Medical Research,40.0,Medical Imaging Sciences
+S273,Zoe,Addison,9,10,7,10,6,8,70,Public Health,36.878,Health Education and Promotion
+S274,Young,Jones,9,6,7,8,12,10,61,Public Health,36.87,Public Health
+S275,Brown,Mia,8,6,10,9,7,8,61,Public Health,33.916,Health Records and Information Technology
+S276,Harper,Evans,9,12,10,7,10,7,76,Pharmacy,41.155,Not elligible
+S277,Addison,Olivia,10,11,6,6,7,7,68,Therapy,34.707,Not elligible
+S278,Nora,Wright,8,9,6,7,12,7,55,Nursing,33.166,Not elligible
+S279,Adams,Walker,8,10,10,12,8,10,65,Surgery,38.545,Not elligible
+S280,Edwards,Leah,10,12,8,7,11,11,58,Pharmacy,37.31,Not elligible
+S281,Scott,Adams,11,7,7,10,7,12,78,Pharmacy,42.224,Pharmacy
+S282,Claire,Nelson,9,6,9,10,10,11,57,Laboratories,36.095,Medical Illustration and Animation
+S283,Harper,Camila,7,8,8,12,8,11,56,Surgery,35.327,Not elligible
+S284,Reed,Lee,10,7,6,9,11,8,57,Public Health,35.181,Health Records and Information Technology
+S285,Green,Martinez,11,7,12,7,8,12,72,Public Health,42.061,Health Systems Management
+S286,Cook,Camila,11,8,9,6,6,11,55,Surgery,34.101,Not elligible
+S287,Rodriguez,Natalie,9,9,8,6,12,10,84,Medical Research,43.267,Medical Anthropology
+S288,Martinez,Ellie,9,12,8,9,8,8,71,Medical Research,38.745,Epidemiology and Biostatistics
+S289,Scott,Smith,10,7,9,6,10,12,70,Laboratories,40.497,Forensic Science
+S290,Taylor,Charlotte,12,10,8,11,10,6,70,Medical Research,39.497,Medical Anthropology
+S291,Zoey,Layla,10,8,11,9,7,8,62,Surgery,35.713,Not elligible
+S292,Moore,Sophia,10,11,9,11,12,8,79,Public Health,43.543,Health Systems Management
+S293,Elizabeth,Savannah,11,7,8,7,11,6,56,Public Health,33.941,Health Records and Information Technology
+S294,Elizabeth,Ava,11,9,7,7,11,7,80,Public Health,40.567,Health Education and Promotion
+S295,Jackson,Baker,10,12,9,11,12,6,56,Surgery,36.222,Not elligible
+S296,Mia,Martinez,12,12,12,12,12,8,72,Surgery,42.547,Dental Surgery
+S297,Luna,Violet,12,8,8,10,10,6,72,Therapy,39.54,Physiotherapy
+S298,Aurora,Wilson,6,7,12,9,12,6,62,Therapy,36.206,Not elligible
+S299,Garcia,Gonzalez,12,12,7,12,7,10,83,Laboratories,44.097,Medical Biotechnology
+S300,Jones,Lewis,10,7,11,12,6,12,69,Medical Research,39.713,Epidemiology and Biostatistics
+S301,Grace,Elizabeth,7,10,8,8,9,6,82,Pharmacy,39.323,Not elligible
+S302,Miller,King,11,12,12,8,9,8,58,Nursing,36.863,Palliative Care and Hospice Services
+S303,Anderson,Violet,8,10,10,7,10,8,77,Medical Research,40.89,Medical Imaging Sciences
+S304,Carter,Adams,10,7,10,7,11,12,72,Laboratories,42.061,Medical Laboratory Sciences
+S305,Smith,Ellie,8,7,10,12,12,11,74,Therapy,42.641,Nutrition and Dietetics
+S306,Rodriguez,Camila,9,6,9,12,9,8,59,Pharmacy,35.793,Not elligible
+S307,Addison,Carter,9,8,7,7,12,9,56,Medical Research,34.409,Not elligible
+S308,Elizabeth,Johnson,10,10,12,9,9,10,61,Therapy,37.804,Nutrition and Dietetics
+S309,Taylor,Garcia,9,6,10,7,11,8,61,Surgery,36.395,Not elligible
+S310,Luna,Amelia,6,7,12,11,6,10,81,Public Health,40.249,Health Education and Promotion
+S311,Johnson,Morgan,12,10,6,11,6,8,74,Therapy,39.555,Physiotherapy
+S312,Natalie,Moore,7,8,7,11,8,8,70,Nursing,37.417,Palliative Care and Hospice Services
+S313,Allen,Johnson,11,9,7,6,9,8,76,Surgery,38.987,Not elligible
+S314,Natalie,Sofia,9,10,11,9,10,10,69,Nursing,40.207,Nursing
+S315,Lily,Savannah,6,8,10,7,12,12,84,Public Health,44.9,Public Health
+S316,Sofia,Carter,6,8,11,9,9,8,59,Nursing,34.838,Palliative Care and Hospice Services
+S317,Stella,Wright,9,8,6,8,6,7,82,Medical Research,37.493,Epidemiology and Biostatistics
+S318,Harper,Nelson,9,10,9,12,7,7,81,Public Health,40.82,Health Education and Promotion
+S319,Nora,Evelyn,8,11,11,9,12,7,78,Medical Research,42.748,Medical Imaging Sciences
+S320,Scott,Victoria,12,12,8,11,6,7,63,Public Health,36.0,Health Records and Information Technology
+S321,Reyes,Bella,12,7,10,11,9,7,79,Laboratories,41.959,Medical Physics
+S322,Jackson,Harris,9,11,8,10,7,7,56,Pharmacy,33.466,Not elligible
+S323,Madison,Anderson,7,6,10,10,8,8,83,Laboratories,39.562,Medical Biotechnology
+S324,Camila,Grace,11,7,6,12,12,10,56,Medical Research,37.947,Clinical Research
+S325,Zoey,Baker,9,10,12,10,11,9,83,Medical Research,44.632,Clinical Research
+S326,Scott,Simpson,7,7,12,8,11,11,66,Therapy,39.323,Radiography
+S327,Hazel,Williams,8,9,6,8,10,8,74,Nursing,38.471,Palliative Care and Hospice Services
+S328,Penelope,Brooklyn,8,9,10,9,8,6,77,Public Health,38.105,Health Education and Promotion
+S329,Evelyn,Brooklyn,8,6,9,12,7,7,60,Public Health,34.143,Health Education and Promotion
+S330,Gomez,Hall,9,9,7,8,7,12,66,Public Health,36.847,Health Education and Promotion
+S331,Baker,Miller,6,11,12,8,12,8,82,Surgery,44.887,Medicine and Surgery
+S332,Emma,Isabella,11,10,7,10,7,9,69,Pharmacy,38.195,Not elligible
+S333,Harper,Lee,10,11,11,7,12,7,74,Public Health,41.638,Public Health
+S334,Charlotte,Sophia,12,8,8,11,11,8,73,Pharmacy,41.857,Not elligible
+S335,Stella,Jones,10,7,10,9,8,9,82,Therapy,41.638,Occupational Therapy
+S336,Wright,Stella,12,11,10,9,8,8,73,Medical Research,39.814,Medical Imaging Sciences
+S337,Victoria,Harper,11,10,7,8,8,12,84,Public Health,43.267,Public Health
+S338,Mitchell,Reed,11,11,9,11,8,12,69,Nursing,40.694,Nursing
+S339,Moore,Scott,11,9,11,9,9,10,55,Pharmacy,35.897,Not elligible
+S340,Anderson,Penelope,7,6,6,8,12,9,62,Pharmacy,35.713,Not elligible
+S341,Jones,Lewis,12,10,12,6,12,10,64,Public Health,41.016,Health Records and Information Technology
+S342,Scarlett,Olivia,11,7,8,12,11,8,79,Therapy,43.543,Orthotics and Prosthetics
+S343,Garcia,Moore,7,7,11,12,9,6,76,Therapy,38.426,Nutrition and Dietetics
+S344,Violet,Amelia,6,8,8,7,7,8,68,Therapy,34.707,Not elligible
+S345,Abigail,Sophia,11,11,9,12,10,11,58,Pharmacy,38.188,Not elligible
+S346,Jones,Zoey,7,7,11,7,9,6,84,Pharmacy,39.799,Not elligible
+S347,Baker,Madison,12,10,8,12,9,10,73,Public Health,42.352,Health Education and Promotion
+S348,Hall,Eleanor,8,7,10,9,12,10,84,Medical Research,43.818,Epidemiology and Biostatistics
+S349,Harris,Hazel,11,8,7,7,6,12,59,Therapy,34.838,Not elligible
+S350,Hazel,Avery,11,9,11,8,10,6,56,Therapy,34.871,Not elligible
+S351,King,Lopez,10,12,8,12,10,6,55,Surgery,35.456,Not elligible
+S352,Aurora,Grace,8,9,6,12,6,8,73,Pharmacy,38.21,Not elligible
+S353,Simpson,Charlotte,10,8,12,11,10,6,73,Laboratories,39.814,Medical Physics
+S354,Zoey,Riley,7,9,10,7,8,8,69,Pharmacy,37.148,Not elligible
+S355,Scarlett,Lee,10,8,9,10,8,11,67,Therapy,38.641,Nutrition and Dietetics
+S356,Sophia,Davis,12,6,6,9,6,12,75,Therapy,40.883,Nutrition and Dietetics
+S357,Gomez,Chloe,6,11,10,12,12,9,59,Pharmacy,38.515,Not elligible
+S358,Elizabeth,Gonzalez,6,11,12,6,11,6,58,Medical Research,36.41,Not elligible
+S359,Ella,Charlotte,6,12,11,8,7,10,66,Nursing,38.84,Palliative Care and Hospice Services
+S360,Bella,Amelia,11,10,9,7,10,12,70,Nursing,40.988,Palliative Care and Hospice Services
+S361,Aubrey,Ellie,12,7,12,7,6,11,65,Nursing,39.024,Palliative Care and Hospice Services
+S362,Gonzalez,Riley,6,6,9,9,7,7,73,Medical Research,34.781,Not elligible
+S363,Parker,Martinez,6,6,8,12,11,12,68,Public Health,39.914,Health Systems Management
+S364,Martinez,Lewis,7,6,6,6,11,6,61,Medical Research,32.338,Not elligible
+S365,Gomez,Ellie,8,9,7,8,9,6,59,Public Health,32.846,Health Education and Promotion
+S366,Abigail,Ava,7,9,7,6,12,6,69,Surgery,36.614,Not elligible
+S367,Isabella,Abigail,10,9,10,12,10,7,60,Public Health,36.567,Health Education and Promotion
+S368,Victoria,Rodriguez,7,12,12,7,11,10,59,Medical Research,38.951,Epidemiology and Biostatistics
+S369,Lee,Ava,12,12,7,10,12,9,64,Surgery,39.656,Not elligible
+S370,Martinez,Baker,12,10,7,12,11,11,82,Pharmacy,46.427,Pharmacy
+S371,Allen,Smith,7,12,8,10,12,6,77,Pharmacy,41.952,Not elligible
+S372,Zoe,Evans,8,7,12,7,12,10,72,Pharmacy,41.569,Not elligible
+S373,Gonzalez,Ellie,7,12,11,6,8,9,55,Public Health,35.456,Health Education and Promotion
+S374,Allen,Penelope,10,8,6,8,9,9,60,Nursing,35.132,Palliative Care and Hospice Services
+S375,Victoria,Lily,7,12,6,8,12,12,68,Laboratories,41.349,Medical Physics
+S376,Green,Nora,9,9,10,11,9,9,81,Therapy,41.939,Radiography
+S377,Penelope,Victoria,9,7,12,7,6,8,62,Pharmacy,35.214,Not elligible
+S378,Lily,Davis,6,10,11,9,6,6,73,Nursing,37.102,Palliative Care and Hospice Services
+S379,Brooklyn,Miller,8,7,6,8,10,9,69,Pharmacy,37.148,Not elligible
+S380,Victoria,Violet,11,12,10,11,12,10,68,Laboratories,41.816,Medical Physics
+S381,Stella,Rivera,11,8,11,8,9,6,70,Public Health,38.471,Health Education and Promotion
+S382,Cooper,Eleanor,11,6,8,10,8,12,76,Medical Research,42.197,Medical Anthropology
+S383,Leah,Green,10,8,12,10,9,10,64,Therapy,38.722,Radiography
+S384,Isabella,Edwards,8,12,12,7,10,8,66,Therapy,39.799,Nutrition and Dietetics
+S385,Natalie,Hall,8,9,9,7,10,6,61,Surgery,34.426,Not elligible
+S386,Johnson,Aria,7,8,9,7,10,11,81,Pharmacy,41.939,Not elligible
+S387,Aria,Grace,9,12,12,11,7,8,77,Medical Research,41.425,Pathology
+S388,Emily,Garcia,8,6,9,7,11,6,67,Pharmacy,36.079,Not elligible
+S389,Adams,Addison,8,7,11,9,7,10,61,Public Health,35.424,Health Records and Information Technology
+S390,Amelia,Adams,12,12,9,6,12,8,75,Nursing,41.918,Nursing
+S391,Aubrey,Baker,7,6,9,10,11,7,56,Laboratories,33.466,Not elligible
+S392,Green,Barnes,8,7,11,6,12,11,66,Therapy,39.799,Occupational Therapy
+S393,Mitchell,Young,11,10,8,6,11,7,60,Medical Research,35.617,Not elligible
+S394,Johnson,Elizabeth,6,12,6,6,6,11,57,Pharmacy,33.764,Not elligible
+S395,Rodriguez,Baker,7,9,10,6,10,12,72,Medical Research,41.071,Pathology
+S396,Charlotte,Perez,7,10,10,7,10,9,69,Pharmacy,39.214,Not elligible
+S397,Abigail,Perez,10,10,8,10,6,6,62,Nursing,33.671,Not elligible
+S398,Ellie,Lily,8,11,11,11,11,12,61,Therapy,39.605,Clinical Psychology
+S399,Leah,Mia,8,12,9,7,12,12,73,Medical Research,43.326,Pathology
+S400,Audrey,Zoe,10,6,11,9,12,6,72,Medical Research,40.057,Medical Imaging Sciences
+S401,Emma,Evans,8,12,9,10,7,9,64,Therapy,37.279,Nutrition and Dietetics
+S402,Smith,Allen,7,11,12,10,12,8,80,Therapy,44.336,Optometry
+S403,Natalie,Lee,6,7,11,9,10,8,55,Public Health,33.637,Health Education and Promotion
+S404,Aria,Johnson,7,11,11,8,8,7,62,Pharmacy,36.206,Not elligible
+S405,Lopez,Sophia,7,7,6,6,8,12,65,Pharmacy,35.01,Not elligible
+S406,Lewis,Harper,10,12,8,10,12,10,55,Medical Research,37.187,Clinical Research
+S407,Mia,Allen,6,11,11,10,12,6,67,Pharmacy,39.133,Not elligible
+S408,Zoey,Martinez,10,9,10,9,11,10,75,Therapy,41.918,Nutrition and Dietetics
+S409,Hall,Charlotte,8,12,12,9,6,8,83,Laboratories,42.453,Forensic Science
+S410,Sophia,Evelyn,12,9,9,7,12,7,83,Therapy,43.556,Clinical Psychology
+S411,Olivia,Natalie,12,12,10,10,11,7,67,Medical Research,39.133,Clinical Research
+S412,Lopez,Lewis,9,6,12,6,11,9,65,Laboratories,39.024,Forensic Science
+S413,Johnson,Scarlett,10,7,6,6,6,11,59,Nursing,33.355,Not elligible
+S414,Campbell,Wright,9,12,8,9,8,8,69,Nursing,38.195,Palliative Care and Hospice Services
+S415,Taylor,Abigail,8,7,12,10,11,8,71,Pharmacy,39.778,Not elligible
+S416,Harris,Rodriguez,8,9,11,12,12,12,72,Public Health,43.028,Health Records and Information Technology
+S417,Brooklyn,Edwards,11,11,8,9,12,6,61,Laboratories,36.395,Medical Illustration and Animation
+S418,Lily,Carter,12,10,7,9,10,6,58,Laboratories,35.018,Medical Illustration and Animation
+S419,Johnson,Edwards,9,11,6,12,8,8,66,Public Health,38.352,Health Education and Promotion
+S420,Mia,Turner,9,6,12,6,9,8,62,Pharmacy,36.692,Not elligible
+S421,Anderson,Baker,8,6,10,7,7,8,70,Therapy,36.332,Not elligible
+S422,Gomez,Penelope,12,11,9,11,12,7,70,Pharmacy,40.988,Not elligible
+S423,Smith,Harper,11,11,6,7,10,7,67,Laboratories,36.606,Medical Illustration and Animation
+S424,Ella,Cook,9,10,7,9,6,10,72,Nursing,37.947,Palliative Care and Hospice Services
+S425,Green,Edwards,7,9,7,6,12,6,74,Laboratories,37.917,Medical Illustration and Animation
+S426,Brown,Savannah,9,9,11,6,12,11,56,Public Health,37.094,Public Health
+S427,Audrey,Smith,8,12,12,9,10,9,68,Therapy,40.876,Clinical Psychology
+S428,Moore,Addison,10,6,11,11,8,6,75,Therapy,38.73,Orthotics and Prosthetics
+S429,Taylor,Cooper,7,9,6,12,9,11,57,Surgery,36.544,Not elligible
+S430,Hazel,Smith,11,10,8,12,7,11,55,Public Health,35.897,Health Records and Information Technology
+S431,Sophia,Baker,11,7,6,12,6,10,64,Therapy,37.766,Nutrition and Dietetics
+S432,Allen,Gonzalez,9,6,9,10,12,8,73,Nursing,40.334,Nursing
+S433,Riley,Green,10,8,6,7,6,11,73,Laboratories,37.66,Medical Illustration and Animation
+S434,Mitchell,Elizabeth,8,11,6,10,6,11,60,Therapy,36.095,Not elligible
+S435,Johnson,Mitchell,12,9,8,10,12,6,66,Laboratories,38.84,Medical Biotechnology
+S436,Grace,Moore,9,11,9,8,10,9,56,Pharmacy,35.327,Not elligible
+S437,Aubrey,Cook,6,8,8,10,11,10,70,Nursing,39.497,Palliative Care and Hospice Services
+S438,Hannah,Nelson,12,6,9,7,8,11,83,Laboratories,43.556,Medical Illustration and Animation
+S439,Walker,Audrey,6,6,8,11,10,12,72,Pharmacy,40.057,Not elligible
+S440,Lewis,Harper,11,10,9,9,11,12,71,Nursing,41.768,Palliative Care and Hospice Services
+S441,Emily,Nelson,10,10,7,9,7,9,67,Laboratories,36.606,Medical Biotechnology
+S442,Eleanor,Penelope,8,9,9,7,8,6,61,Pharmacy,33.398,Not elligible
+S443,Reed,Harris,9,11,12,6,12,10,80,Surgery,45.356,Dental Surgery
+S444,Carter,Hazel,8,8,10,8,12,12,80,Nursing,43.818,Palliative Care and Hospice Services
+S445,Charlotte,Perez,10,12,9,8,12,12,76,Public Health,44.207,Public Health
+S446,Baker,Isabella,11,12,7,9,11,9,83,Therapy,44.097,Physiotherapy
+S447,Gonzalez,Avery,8,8,8,11,10,7,79,Therapy,40.313,Clinical Psychology
+S448,Brown,Layla,6,6,11,7,10,6,62,Laboratories,34.193,Not elligible
+S449,Riley,Cook,9,8,9,7,7,8,62,Therapy,34.193,Not elligible
+S450,Hall,Miller,11,9,12,10,6,8,57,Medical Research,34.715,Not elligible
+S451,Smith,Evelyn,10,11,6,8,7,10,62,Medical Research,35.713,Not elligible
+S452,Sofia,Smith,12,9,11,8,9,6,80,Nursing,41.679,Nursing
+S453,Green,Perez,12,8,8,9,6,6,67,Pharmacy,35.545,Not elligible
+S454,Olivia,Layla,8,6,8,9,6,8,60,Nursing,32.601,Not elligible
+S455,Wilson,Turner,7,8,7,10,11,9,63,Therapy,36.986,Nutrition and Dietetics
+S456,Chloe,Jackson,10,6,8,11,12,10,81,Laboratories,44.613,Medical Physics
+S457,Nelson,Charlotte,10,7,10,6,10,11,58,Medical Research,36.863,Clinical Research
+S458,Jones,Adams,8,10,10,7,10,12,74,Nursing,42.143,Nursing
+S459,Parker,Reed,7,11,7,12,6,11,77,Nursing,41.952,Palliative Care and Hospice Services
+S460,Moore,Camila,10,8,12,7,9,7,71,Therapy,39.265,Nutrition and Dietetics
+S461,Cook,Mila,7,10,11,7,11,12,66,Surgery,40.736,Not elligible
+S462,Rivera,Aurora,10,9,7,11,9,11,64,Therapy,38.722,Nutrition and Dietetics
+S463,Lewis,Nora,10,6,9,6,10,9,66,Laboratories,37.857,Medical Illustration and Animation
+S464,Allen,Walker,6,7,10,6,12,11,74,Pharmacy,41.127,Not elligible
+S465,Parker,Luna,9,7,6,11,6,6,82,Nursing,38.722,Palliative Care and Hospice Services
+S466,Wright,Isabella,6,8,8,6,11,8,63,Medical Research,35.496,Not elligible
+S467,Penelope,Stella,11,7,8,12,6,7,71,Nursing,38.217,Palliative Care and Hospice Services
+S468,Emma,Cook,6,9,12,9,11,10,61,Therapy,38.262,Nutrition and Dietetics
+S469,Scott,Mila,8,9,10,11,6,8,58,Pharmacy,33.569,Not elligible
+S470,Lee,Gonzalez,6,7,9,12,11,8,60,Public Health,36.095,Environmental Health
+S471,Violet,Evelyn,8,7,10,12,9,9,58,Nursing,35.488,Palliative Care and Hospice Services
+S472,Martinez,Charlotte,12,7,11,9,7,9,68,Nursing,38.929,Palliative Care and Hospice Services
+S473,Cook,Aurora,7,12,8,9,11,8,57,Public Health,36.095,Health Records and Information Technology
+S474,Elizabeth,Hannah,8,7,9,6,8,8,59,Surgery,33.355,Not elligible
+S475,Avery,Mitchell,9,10,10,7,12,9,79,Public Health,43.022,Health Records and Information Technology
+S476,Zoe,Turner,10,6,10,7,10,6,74,Medical Research,39.016,Clinical Research
+S477,King,Garcia,6,9,6,8,10,10,69,Pharmacy,38.195,Not elligible
+S478,Baker,Johnson,7,10,12,11,11,8,69,Medical Research,40.207,Medical Imaging Sciences
+S479,Hall,Edwards,11,11,9,9,11,6,75,Nursing,39.821,Nursing
+S480,Riley,Smith,11,10,9,7,7,12,76,Laboratories,41.155,Medical Biotechnology
+S481,Aria,Ella,9,10,12,9,8,12,60,Public Health,37.947,Health Records and Information Technology
+S482,Jackson,Scott,6,12,7,9,10,10,79,Surgery,43.022,Dental Surgery
+S483,Ava,Grace,12,11,10,11,6,8,81,Therapy,41.383,Speech Therapy
+S484,Cooper,Natalie,11,11,11,8,10,10,78,Nursing,43.267,Nursing
+S485,Violet,Chloe,12,11,9,7,6,11,73,Laboratories,39.814,Medical Biotechnology
+S486,Ella,Reed,10,9,8,9,9,9,77,Laboratories,40.348,Medical Biotechnology
+S487,Evelyn,Chloe,10,6,12,9,8,12,72,Surgery,41.569,Not elligible
+S488,Campbell,Scarlett,6,9,8,10,6,9,81,Laboratories,39.67,Medical Illustration and Animation
+S489,Chloe,Simpson,11,7,7,6,10,6,79,Therapy,39.177,Nutrition and Dietetics
+S490,Hazel,Claire,10,9,6,12,7,6,76,Public Health,38.987,Public Health
+S491,Charlotte,Brooklyn,7,9,10,12,12,12,73,Surgery,43.326,Dental Surgery
+S492,Riley,Rodriguez,10,11,7,8,11,7,61,Laboratories,35.913,Medical Illustration and Animation
+S493,Miller,Parker,12,10,8,12,6,11,83,Public Health,44.097,Health Education and Promotion
+S494,Elizabeth,Hall,10,10,7,11,11,6,61,Medical Research,36.395,Not elligible
+S495,Brown,Williams,6,6,10,9,11,7,63,Surgery,34.986,Not elligible
+S496,Hazel,Edwards,11,10,8,6,8,9,74,Surgery,39.016,Not elligible
+S497,Brooklyn,Amelia,7,8,10,10,11,6,73,Public Health,38.21,Environmental Health
+S498,Violet,Gomez,7,12,7,7,11,10,69,Therapy,39.713,Orthotics and Prosthetics
+S499,Cooper,Charlotte,8,12,8,11,9,7,64,Nursing,37.766,Palliative Care and Hospice Services
+S500,Johnson,Taylor,7,9,9,6,10,6,58,Pharmacy,33.569,Not elligible
+S501,Simpson,Grace,8,12,10,8,10,10,80,Nursing,43.818,Palliative Care and Hospice Services
+S502,Sofia,Gomez,12,6,12,8,9,9,79,Pharmacy,43.543,Pharmacy
+S503,Charlotte,Gomez,11,9,10,8,7,8,84,Nursing,41.569,Palliative Care and Hospice Services
+S504,Baker,Claire,8,8,8,10,9,12,81,Nursing,42.487,Nursing
+S505,Morgan,Violet,10,9,7,9,10,9,71,Therapy,39.265,Radiography
+S506,King,Rivera,10,11,9,12,6,7,63,Laboratories,36.0,Medical Illustration and Animation
+S507,Lewis,Claire,7,8,12,9,10,9,66,Surgery,38.352,Not elligible
+S508,Aurora,Nelson,10,8,7,12,7,9,67,Nursing,38.143,Palliative Care and Hospice Services
+S509,Sophia,Emma,8,7,7,8,12,10,83,Medical Research,42.453,Medical Imaging Sciences
+S510,Brown,Nelson,10,6,11,7,7,6,63,Pharmacy,34.986,Not elligible
+S511,Jackson,Aria,8,7,7,9,9,8,82,Public Health,39.914,Public Health
+S512,Victoria,Natalie,11,6,10,10,9,9,60,Public Health,36.567,Health Education and Promotion
+S513,Layla,Claire,9,8,8,6,8,10,63,Laboratories,35.496,Medical Illustration and Animation
+S514,Isabella,Hannah,11,10,6,11,10,12,84,Public Health,45.957,Health Systems Management
+S515,Lillian,Grace,9,8,8,9,8,12,82,Medical Research,42.197,Epidemiology and Biostatistics
+S516,Grace,Lopez,7,12,11,8,7,10,71,Laboratories,40.285,Medical Physics
+S517,Addison,Claire,10,10,9,6,11,6,79,Nursing,40.313,Nursing
+S518,Leah,Miller,11,8,10,7,6,6,77,Medical Research,38.105,Clinical Research
+S519,Garcia,Aubrey,8,7,11,7,12,7,60,Medical Research,36.095,Not elligible
+S520,Penelope,Harper,11,11,6,6,9,12,57,Medical Research,35.181,Not elligible
+S521,Gomez,Nora,7,6,9,7,11,10,73,Laboratories,39.286,Forensic Science
+S522,Sophia,Isabella,11,12,10,7,7,6,61,Pharmacy,34.928,Not elligible
+S523,Johnson,Cook,11,6,10,12,9,7,74,Nursing,40.61,Nursing
+S524,Gomez,Zoey,12,6,10,8,11,6,70,Pharmacy,39.497,Not elligible
+S525,Davis,Adams,7,12,6,9,11,12,70,Surgery,41.952,Not elligible
+S526,Nelson,Madison,7,8,10,8,8,12,61,Nursing,36.395,Palliative Care and Hospice Services
+S527,Abigail,Wilson,12,11,11,6,11,12,62,Laboratories,40.37,Forensic Science
+S528,Isabella,Nelson,11,12,11,8,7,8,77,Nursing,40.89,Palliative Care and Hospice Services
+S529,Evans,Emily,9,10,10,12,12,8,75,Nursing,42.426,Palliative Care and Hospice Services
+S530,Olivia,Ellie,9,7,6,8,7,8,82,Public Health,38.722,Public Health
+S531,Lily,Leah,12,10,7,10,8,10,58,Medical Research,36.41,Not elligible
+S532,Young,Olivia,6,11,11,10,8,9,73,Therapy,40.334,Clinical Psychology
+S533,Brown,Anderson,10,9,9,11,12,11,63,Surgery,39.799,Not elligible
+S534,Wright,Campbell,6,6,11,10,7,10,70,Surgery,36.878,Not elligible
+S535,Cook,Abigail,9,6,12,9,6,11,63,Public Health,36.986,Health Education and Promotion
+S536,Turner,Hannah,7,8,12,8,11,11,82,Medical Research,44.362,Medical Imaging Sciences
+S537,Olivia,Reed,8,12,6,12,8,12,76,Laboratories,43.713,Medical Laboratory Sciences
+S538,Johnson,Perez,12,7,8,10,8,8,69,Nursing,38.708,Palliative Care and Hospice Services
+S539,Audrey,Edwards,12,9,9,9,9,7,74,Pharmacy,39.555,Not elligible
+S540,Victoria,Aurora,7,9,9,8,6,9,73,Nursing,37.102,Palliative Care and Hospice Services
+S541,Morgan,Scott,10,6,11,9,11,9,57,Therapy,36.544,Not elligible
+S542,Evans,Brown,9,7,9,7,10,11,68,Surgery,38.929,Not elligible
+S543,Victoria,Cook,8,12,12,10,12,7,75,Public Health,42.929,Health Systems Management
+S544,Aubrey,Simpson,6,7,12,11,10,10,74,Laboratories,40.61,Medical Laboratory Sciences
+S545,Carter,Baker,6,8,12,10,6,9,56,Public Health,33.466,Health Education and Promotion
+S546,Johnson,Eleanor,6,7,11,8,12,6,75,Pharmacy,39.279,Not elligible
+S547,Brown,Martinez,7,12,8,7,12,7,68,Pharmacy,38.929,Not elligible
+S548,Lillian,Nora,11,7,8,11,9,9,78,Therapy,42.224,Optometry
+S549,Emma,Aubrey,12,7,12,11,6,9,83,Public Health,43.008,Health Systems Management
+S550,Mitchell,Reed,9,11,12,10,11,6,55,Therapy,35.456,Not elligible
+S551,Jones,Penelope,9,10,6,8,7,8,68,Nursing,35.809,Palliative Care and Hospice Services
+S552,Scott,Johnson,6,10,8,7,7,12,57,Laboratories,34.715,Not elligible
+S553,Mitchell,Eleanor,11,10,9,10,9,9,60,Therapy,36.567,Not elligible
+S554,Victoria,Morgan,11,8,6,11,10,9,62,Laboratories,38.113,Medical Laboratory Sciences
+S555,Cooper,Penelope,8,9,11,7,9,8,57,Therapy,34.715,Not elligible
+S556,Aubrey,Violet,9,6,8,8,11,7,64,Nursing,35.777,Palliative Care and Hospice Services
+S557,Anderson,Mila,10,6,10,7,11,6,76,Medical Research,40.086,Clinical Research
+S558,Moore,Ellie,11,10,10,9,10,6,57,Pharmacy,34.715,Not elligible
+S559,Elizabeth,Scott,10,9,11,6,6,8,70,Medical Research,37.417,Epidemiology and Biostatistics
+S560,Wilson,Williams,7,7,10,6,10,7,76,Surgery,38.426,Not elligible
+S561,Olivia,Bella,6,7,7,9,12,6,70,Public Health,36.878,Health Education and Promotion
+S562,Gonzalez,Ava,6,8,6,6,8,10,58,Medical Research,32.566,Not elligible
+S563,Savannah,Parker,9,11,6,7,7,9,57,Therapy,33.278,Not elligible
+S564,Evelyn,Morgan,6,12,12,12,8,6,68,Surgery,38.426,Not elligible
+S565,Gomez,Sophia,8,9,6,9,7,8,61,Pharmacy,33.916,Not elligible
+S566,Aurora,Taylor,6,11,10,8,8,9,67,Therapy,38.143,Nutrition and Dietetics
+S567,Lopez,Mia,7,7,7,8,8,8,72,Medical Research,35.713,Not elligible
+S568,Luna,Williams,11,7,7,8,11,10,70,Medical Research,40.0,Epidemiology and Biostatistics
+S569,Addison,Penelope,6,10,9,9,8,10,82,Laboratories,41.638,Medical Physics
+S570,Martinez,Hazel,9,7,12,12,10,9,61,Nursing,37.34,Palliative Care and Hospice Services
+S571,Brown,Johnson,7,12,9,6,10,9,59,Public Health,36.723,Environmental Health
+S572,Williams,Lee,6,11,9,8,8,7,66,Public Health,36.332,Health Education and Promotion
+S573,Carter,Turner,10,12,6,7,9,8,84,Public Health,41.569,Public Health
+S574,Harper,Cook,7,7,8,8,7,7,68,Therapy,33.569,Not elligible
+S575,Madison,Layla,6,7,7,12,9,9,77,Public Health,40.348,Public Health
+S576,Layla,Garcia,11,6,12,9,8,7,84,Laboratories,42.708,Medical Physics
+S577,Reed,Anderson,7,8,12,9,10,10,60,Nursing,37.033,Palliative Care and Hospice Services
+S578,Turner,Amelia,9,6,11,9,11,10,75,Nursing,41.918,Palliative Care and Hospice Services
+S579,Harris,Edwards,11,7,8,6,10,10,74,Medical Research,40.61,Epidemiology and Biostatistics
+S580,Aria,Smith,9,6,12,10,11,7,62,Pharmacy,37.171,Not elligible
+S581,Gonzalez,Hall,7,10,11,11,11,11,73,Pharmacy,42.352,Pharmacy
+S582,Harper,Sofia,10,12,7,8,9,8,77,Nursing,40.348,Nursing
+S583,Brooklyn,Lillian,11,9,12,7,12,10,83,Medical Research,46.198,Medical Anthropology
+S584,Allen,Wright,7,8,8,9,7,11,84,Medical Research,40.988,Pathology
+S585,Young,Barnes,12,12,12,6,10,12,60,Nursing,39.713,Nursing
+S586,Nora,Mia,8,12,8,7,12,9,69,Public Health,40.207,Health Systems Management
+S587,Garcia,Aubrey,8,6,9,7,6,9,76,Nursing,37.279,Palliative Care and Hospice Services
+S588,Johnson,Stella,9,12,8,9,9,11,68,Therapy,39.914,Nutrition and Dietetics
+S589,King,Stella,9,10,10,11,10,12,84,Surgery,45.431,Dental Surgery
+S590,Johnson,Harris,10,8,12,6,9,9,70,Medical Research,40.0,Epidemiology and Biostatistics
+S591,Green,Baker,6,9,10,9,6,9,72,Public Health,37.401,Environmental Health
+S592,Riley,Johnson,7,10,8,11,10,9,78,Nursing,42.224,Palliative Care and Hospice Services
+S593,Nora,Walker,9,7,12,7,7,6,75,Medical Research,38.173,Epidemiology and Biostatistics
+S594,Evelyn,Adams,12,7,6,8,12,9,70,Nursing,40.497,Nursing
+S595,Walker,Sophia,9,7,8,10,11,11,69,Pharmacy,40.207,Not elligible
+S596,Claire,Brooklyn,9,12,11,7,9,12,73,Medical Research,42.842,Epidemiology and Biostatistics
+S597,Aubrey,Sofia,6,10,10,9,6,9,73,Therapy,38.21,Nutrition and Dietetics
+S598,Layla,Riley,11,7,10,10,8,12,64,Surgery,38.722,Not elligible
+S599,Wright,Riley,7,11,6,11,6,6,64,Surgery,35.262,Not elligible
+S600,Aubrey,Leah,10,6,7,8,12,11,58,Medical Research,36.863,Clinical Research
+S601,Violet,Emily,8,6,7,6,10,7,66,Therapy,34.74,Not elligible
+S602,Olivia,Audrey,7,12,6,11,6,11,68,Surgery,39.424,Not elligible
+S603,Mila,Savannah,8,12,10,10,7,7,84,Surgery,41.569,Not elligible
+S604,Evelyn,Lee,12,12,12,7,9,8,79,Public Health,43.022,Health Systems Management
+S605,Aurora,Wilson,12,11,12,10,10,8,82,Public Health,44.362,Health Records and Information Technology
+S606,Smith,Baker,9,10,7,6,12,11,79,Pharmacy,42.494,Pharmacy
+S607,Zoey,Taylor,10,10,12,8,12,8,62,Laboratories,38.575,Medical Illustration and Animation
+S608,Isabella,Williams,6,8,8,9,6,9,65,Laboratories,34.476,Not elligible
+S609,Claire,Lewis,8,11,11,6,7,6,67,Surgery,36.606,Not elligible
+S610,Harper,Hall,10,10,9,9,11,7,61,Public Health,35.913,Health Education and Promotion
+S611,Penelope,Jones,11,11,11,12,10,11,59,Nursing,38.515,Palliative Care and Hospice Services
+S612,Simpson,Mila,11,11,11,6,8,6,65,Therapy,36.567,Not elligible
+S613,Elizabeth,Williams,11,9,7,12,8,9,84,Surgery,43.818,Medicine and Surgery
+S614,Amelia,Hazel,10,6,10,10,6,6,75,Public Health,37.033,Environmental Health
+S615,Brooklyn,Olivia,6,9,9,6,11,12,76,Public Health,42.197,Environmental Health
+S616,Victoria,Layla,7,8,8,12,7,8,75,Surgery,38.73,Not elligible
+S617,Chloe,Lily,12,12,12,8,12,6,65,Laboratories,39.497,Medical Physics
+S618,Violet,Wright,8,7,12,11,8,6,57,Medical Research,33.278,Not elligible
+S619,Grace,Rodriguez,11,7,11,12,12,7,79,Public Health,43.543,Public Health
+S620,Johnson,Wright,12,7,12,11,10,11,61,Surgery,39.605,Not elligible
+S621,Mia,Moore,6,7,12,9,10,10,81,Laboratories,42.487,Medical Biotechnology
+S622,Smith,Grace,12,7,6,6,6,12,57,Nursing,34.243,Palliative Care and Hospice Services
+S623,Evans,Simpson,8,7,10,6,7,12,73,Medical Research,39.286,Epidemiology and Biostatistics
+S624,Addison,Young,9,7,6,9,9,9,59,Public Health,34.838,Health Education and Promotion
+S625,Addison,Garcia,6,8,12,7,12,11,61,Surgery,38.715,Not elligible
+S626,Davis,Victoria,9,8,7,9,12,8,68,Medical Research,38.426,Clinical Research
+S627,Riley,Charlotte,12,7,8,12,6,12,59,Pharmacy,37.63,Not elligible
+S628,Olivia,Natalie,11,11,6,6,12,9,68,Nursing,38.426,Palliative Care and Hospice Services
+S629,Hannah,Jackson,12,9,11,11,6,12,66,Surgery,39.323,Not elligible
+S630,Parker,Baker,8,8,12,6,11,12,78,Nursing,43.779,Palliative Care and Hospice Services
+S631,Evans,Sofia,9,12,6,10,9,6,78,Therapy,40.61,Radiography
+S632,Hall,Jackson,12,9,6,11,12,11,69,Public Health,42.588,Public Health
+S633,Lee,Zoe,12,11,11,11,6,12,71,Public Health,40.785,Environmental Health
+S634,Zoey,Scarlett,8,7,10,11,12,9,67,Therapy,39.133,Radiography
+S635,Cooper,Sofia,12,12,7,12,7,7,74,Therapy,40.086,Speech Therapy
+S636,Allen,Aria,10,11,8,8,8,7,72,Laboratories,37.401,Medical Biotechnology
+S637,Nelson,Isabella,9,12,11,6,9,11,81,Laboratories,44.613,Medical Biotechnology
+S638,Riley,Grace,8,6,8,12,11,6,61,Medical Research,35.913,Not elligible
+S639,Gonzalez,Addison,6,6,9,10,10,7,62,Surgery,34.193,Not elligible
+S640,Ellie,Victoria,12,8,7,10,9,12,72,Therapy,42.061,Occupational Therapy
+S641,Gomez,Isabella,12,11,9,6,9,8,58,Nursing,35.488,Palliative Care and Hospice Services
+S642,Aubrey,Green,10,10,9,12,6,7,80,Surgery,40.0,Not elligible
+S643,Rodriguez,Walker,9,12,6,10,7,9,76,Pharmacy,40.624,Not elligible
+S644,Smith,Miller,9,11,7,8,10,7,78,Therapy,40.057,Physiotherapy
+S645,Lily,Hazel,6,9,7,7,12,12,84,Therapy,43.818,Physiotherapy
+S646,Madison,Hazel,11,6,7,8,7,11,63,Public Health,36.497,Health Education and Promotion
+S647,Gonzalez,Chloe,11,9,9,6,11,12,59,Pharmacy,38.075,Not elligible
+S648,Abigail,Harper,9,11,8,11,10,12,59,Public Health,38.515,Health Systems Management
+S649,Parker,Isabella,7,8,8,8,10,9,80,Medical Research,40.0,Medical Anthropology
+S650,Reyes,King,9,9,8,10,9,9,69,Laboratories,38.195,Medical Laboratory Sciences
+S651,Sophia,Zoey,7,6,7,10,7,9,59,Medical Research,33.355,Not elligible
+S652,Bella,Olivia,12,6,11,12,9,10,59,Pharmacy,38.075,Not elligible
+S653,Riley,Barnes,6,8,8,8,7,8,80,Laboratories,37.645,Medical Illustration and Animation
+S654,Zoe,Avery,12,8,8,6,7,12,81,Laboratories,42.487,Medical Physics
+S655,Cooper,Lily,8,10,9,12,9,7,67,Public Health,38.143,Public Health
+S656,Anderson,Wilson,7,11,8,11,6,9,68,Therapy,37.917,Nutrition and Dietetics
+S657,Nora,Lillian,11,8,8,11,6,8,82,Pharmacy,41.071,Not elligible
+S658,Campbell,Mila,12,10,11,12,9,6,60,Pharmacy,36.567,Not elligible
+S659,Victoria,Avery,6,8,9,10,9,10,70,Nursing,38.471,Palliative Care and Hospice Services
+S660,Aurora,Emily,6,11,12,8,6,12,64,Laboratories,38.722,Medical Laboratory Sciences
+S661,Parker,Green,8,12,9,10,10,7,68,Nursing,38.929,Palliative Care and Hospice Services
+S662,Evans,Amelia,9,7,10,9,11,11,55,Medical Research,35.897,Not elligible
+S663,Luna,Camila,9,12,6,12,11,7,76,Surgery,42.708,Dental Surgery
+S664,Garcia,Reyes,9,11,10,11,7,8,66,Pharmacy,37.355,Not elligible
+S665,Audrey,Brooklyn,10,8,7,6,12,10,67,Public Health,38.641,Public Health
+S666,Emma,Brown,8,6,6,7,7,11,59,Therapy,33.355,Not elligible
+S667,Morgan,Stella,11,7,9,10,12,6,62,Nursing,37.171,Palliative Care and Hospice Services
+S668,Stella,Cook,11,7,11,12,6,7,68,Public Health,37.401,Environmental Health
+S669,Gomez,Lopez,6,6,10,6,6,11,64,Therapy,34.74,Not elligible
+S670,Natalie,Hazel,8,11,6,7,12,9,81,Medical Research,42.487,Clinical Research
+S671,Johnson,Stella,12,7,12,11,10,8,78,Medical Research,43.267,Epidemiology and Biostatistics
+S672,Johnson,Lee,9,8,7,6,7,12,58,Public Health,34.059,Health Records and Information Technology
+S673,Gomez,Bella,11,9,11,10,8,8,61,Surgery,36.395,Not elligible
+S674,Carter,Mia,12,12,10,8,12,9,77,Therapy,43.497,Orthotics and Prosthetics
+S675,Nora,Luna,11,6,12,11,10,6,59,Therapy,36.261,Not elligible
+S676,Cook,Aria,9,8,9,8,8,9,76,Surgery,38.987,Not elligible
+S677,Barnes,Aubrey,12,11,9,6,9,8,69,Surgery,38.708,Not elligible
+S678,Martinez,Nelson,8,8,7,7,11,7,70,Pharmacy,36.332,Not elligible
+S679,Audrey,Ava,11,9,10,7,11,8,80,Medical Research,42.762,Epidemiology and Biostatistics
+S680,Addison,Jackson,7,10,12,10,7,10,66,Laboratories,38.352,Medical Biotechnology
+S681,Reed,Elizabeth,11,11,11,8,8,7,77,Therapy,40.348,Optometry
+S682,Ellie,Gomez,11,10,10,8,8,9,82,Public Health,42.197,Public Health
+S683,Evelyn,Jones,9,6,11,12,7,7,75,Nursing,38.73,Palliative Care and Hospice Services
+S684,Emma,Nelson,12,7,12,8,11,12,65,Medical Research,41.782,Clinical Research
+S685,Ella,Wright,6,12,10,12,10,6,72,Nursing,40.567,Palliative Care and Hospice Services
+S686,Abigail,Johnson,12,11,8,9,10,9,82,Laboratories,43.293,Forensic Science
+S687,Johnson,Campbell,6,11,9,9,7,12,55,Nursing,35.01,Palliative Care and Hospice Services
+S688,Eleanor,Camila,10,7,6,10,6,6,80,Surgery,38.247,Not elligible
+S689,Victoria,Lopez,10,10,6,7,11,7,61,Pharmacy,34.928,Not elligible
+S690,Mitchell,Allen,10,12,10,9,6,7,60,Medical Research,34.641,Not elligible
+S691,Parker,Mitchell,6,11,11,6,12,8,74,Nursing,42.143,Nursing
+S692,Walker,Scarlett,12,8,9,6,7,6,57,Pharmacy,33.278,Not elligible
+S693,Evelyn,Aria,12,8,11,6,10,6,57,Public Health,35.641,Health Education and Promotion
+S694,Claire,Zoey,6,11,8,9,9,9,67,Laboratories,38.143,Medical Illustration and Animation
+S695,Emily,Davis,10,7,10,6,6,12,76,Laboratories,40.624,Medical Physics
+S696,Green,Eleanor,7,6,10,6,9,11,73,Medical Research,39.286,Epidemiology and Biostatistics
+S697,Williams,Jones,11,11,8,12,9,8,75,Nursing,41.404,Nursing
+S698,Smith,Sophia,6,6,12,8,9,7,55,Public Health,32.689,Not elligible
+S699,Ellie,Sophia,8,6,9,12,11,12,77,Laboratories,43.497,Medical Biotechnology
+S700,Victoria,Hannah,11,8,10,7,6,6,83,Laboratories,39.562,Medical Biotechnology
+S701,Harris,Aubrey,10,12,9,7,6,10,80,Therapy,41.127,Optometry
+S702,Madison,Reyes,9,6,9,10,10,6,58,Laboratories,34.059,Not elligible
+S703,Carter,Scott,6,10,6,6,8,11,77,Surgery,39.243,Not elligible
+S704,Wright,Isabella,9,12,12,6,9,10,68,Public Health,40.876,Public Health
+S705,Scarlett,Simpson,8,9,6,10,12,8,73,Pharmacy,40.334,Not elligible
+S706,Gomez,Morgan,9,11,6,6,10,11,78,Pharmacy,41.155,Not elligible
+S707,Grace,Abigail,10,8,7,6,8,9,72,Public Health,37.401,Health Records and Information Technology
+S708,Lily,Leah,8,12,11,9,10,11,61,Therapy,39.163,Orthotics and Prosthetics
+S709,Victoria,Parker,8,10,8,10,9,10,58,Surgery,35.952,Not elligible
+S710,Mitchell,Layla,12,11,10,10,9,12,61,Surgery,38.715,Not elligible
+S711,Grace,Morgan,10,8,11,11,12,7,69,Medical Research,39.713,Clinical Research
+S712,Aria,Penelope,10,10,12,10,6,10,84,Laboratories,42.708,Medical Biotechnology
+S713,Jones,Emily,8,7,12,10,9,10,64,Nursing,37.766,Palliative Care and Hospice Services
+S714,Garcia,Ella,11,11,6,12,11,11,77,Pharmacy,44.497,Pharmacy
+S715,King,Penelope,8,7,11,10,12,8,80,Pharmacy,42.224,Pharmacy
+S716,Camila,Grace,12,9,11,12,7,7,64,Nursing,37.279,Palliative Care and Hospice Services
+S717,Abigail,Lillian,7,11,11,8,8,8,70,Therapy,38.987,Nutrition and Dietetics
+S718,Wright,Madison,10,10,10,9,11,9,69,Pharmacy,39.713,Not elligible
+S719,Aubrey,Emily,12,6,7,11,8,10,66,Laboratories,39.323,Medical Illustration and Animation
+S720,Ella,Young,12,9,9,8,10,10,68,Nursing,39.914,Nursing
+S721,Lopez,Grace,7,9,10,7,12,10,63,Medical Research,38.419,Epidemiology and Biostatistics
+S722,Chloe,Eleanor,10,8,9,11,6,7,79,Laboratories,39.177,Forensic Science
+S723,Zoe,Olivia,6,10,8,12,11,9,63,Public Health,38.884,Health Records and Information Technology
+S724,King,Simpson,12,6,11,6,12,12,63,Therapy,41.134,Speech Therapy
+S725,Stella,Claire,6,9,9,10,7,8,63,Nursing,34.986,Palliative Care and Hospice Services
+S726,Hannah,Lopez,11,10,12,7,6,7,68,Medical Research,37.401,Epidemiology and Biostatistics
+S727,Taylor,Garcia,8,9,8,7,10,10,79,Laboratories,40.869,Medical Physics
+S728,Johnson,Reyes,7,8,12,9,12,9,77,Therapy,42.474,Optometry
+S729,Audrey,Adams,7,8,7,10,8,12,66,Pharmacy,37.857,Not elligible
+S730,Addison,Scarlett,7,6,8,7,10,7,67,Public Health,35.002,Health Records and Information Technology
+S731,Edwards,Mia,9,9,10,10,10,9,62,Medical Research,36.692,Clinical Research
+S732,Morgan,Audrey,11,9,7,9,10,7,60,Therapy,35.617,Not elligible
+S733,Walker,Victoria,12,11,6,11,12,9,61,Laboratories,39.163,Medical Physics
+S734,Lopez,Penelope,8,11,7,12,9,11,65,Laboratories,39.964,Medical Physics
+S735,Amelia,Young,9,8,9,9,6,10,57,Pharmacy,33.278,Not elligible
+S736,Hall,Nora,6,11,12,8,10,6,76,Nursing,41.155,Palliative Care and Hospice Services
+S737,Natalie,Gonzalez,6,6,12,9,7,11,63,Laboratories,36.0,Medical Illustration and Animation
+S738,Wright,Allen,10,9,12,9,7,7,82,Therapy,41.071,Optometry
+S739,Wilson,Anderson,8,11,7,8,12,11,83,Pharmacy,44.632,Pharmacy
+S740,Aurora,Edwards,9,9,9,10,11,6,81,Nursing,40.82,Nursing
+S741,Victoria,Williams,11,11,12,6,11,8,61,Nursing,38.262,Palliative Care and Hospice Services
+S742,Avery,Nelson,12,7,10,6,8,7,64,Medical Research,36.785,Clinical Research
+S743,Penelope,Johnson,11,12,9,9,10,11,61,Laboratories,38.262,Medical Laboratory Sciences
+S744,Olivia,Sofia,9,7,9,10,6,6,74,Nursing,36.206,Palliative Care and Hospice Services
+S745,Rivera,Avery,10,11,11,7,6,11,67,Medical Research,38.641,Clinical Research
+S746,Victoria,Walker,7,7,9,10,7,8,64,Laboratories,34.209,Not elligible
+S747,Rodriguez,Harper,12,9,11,8,8,10,67,Pharmacy,39.62,Not elligible
+S748,Carter,Ella,11,6,12,6,10,6,62,Nursing,37.171,Palliative Care and Hospice Services
+S749,Wright,Avery,10,10,12,6,7,8,71,Laboratories,38.745,Medical Laboratory Sciences
+S750,Bella,Stella,6,11,11,12,11,9,57,Surgery,37.424,Not elligible
+S751,Amelia,Reed,10,10,12,11,9,9,77,Medical Research,41.952,Medical Anthropology
+S752,Riley,Miller,6,8,9,12,12,7,84,Medical Research,43.267,Clinical Research
+S753,Isabella,Reyes,10,7,9,7,7,7,68,Laboratories,35.809,Medical Illustration and Animation
+S754,Moore,Aria,9,6,9,12,11,8,56,Public Health,35.777,Environmental Health
+S755,Green,Victoria,11,6,9,11,12,10,76,Surgery,43.713,Medicine and Surgery
+S756,Carter,Mila,8,11,9,10,6,9,68,Public Health,37.401,Health Records and Information Technology
+S757,Amelia,Elizabeth,6,11,7,9,9,8,65,Therapy,37.071,Nutrition and Dietetics
+S758,Chloe,Emma,11,8,6,9,10,6,72,Public Health,38.486,Health Education and Promotion
+S759,Smith,Barnes,12,8,9,6,8,8,83,Therapy,41.891,Radiography
+S760,Williams,Cooper,12,11,10,7,8,8,62,Surgery,36.692,Not elligible
+S761,Young,Cooper,11,11,8,6,10,8,83,Therapy,41.891,Physiotherapy
+S762,Aurora,Gomez,10,11,6,11,10,11,62,Surgery,39.031,Not elligible
+S763,Walker,Aubrey,8,7,10,6,12,7,71,Nursing,38.745,Palliative Care and Hospice Services
+S764,Davis,Barnes,12,8,11,9,10,7,84,Laboratories,43.818,Medical Physics
+S765,Green,Ellie,12,11,7,8,8,10,80,Medical Research,41.679,Clinical Research
+S766,Rodriguez,Johnson,9,9,10,6,11,7,84,Pharmacy,42.143,Pharmacy
+S767,Ava,Natalie,6,9,9,11,12,11,71,Pharmacy,41.768,Not elligible
+S768,Moore,Emma,12,7,9,10,12,9,82,Public Health,44.887,Health Records and Information Technology
+S769,Anderson,Claire,8,6,7,11,10,7,79,Therapy,40.313,Physiotherapy
+S770,Natalie,Williams,8,9,8,6,10,10,65,Nursing,37.071,Palliative Care and Hospice Services
+S771,Charlotte,Audrey,11,8,10,8,7,12,59,Medical Research,36.723,Clinical Research
+S772,Brooklyn,Claire,6,11,12,9,10,8,72,Laboratories,41.071,Medical Biotechnology
+S773,Ava,Scott,9,9,6,10,8,8,80,Pharmacy,40.0,Not elligible
+S774,Sophia,Luna,12,7,12,11,8,10,77,Laboratories,42.988,Medical Biotechnology
+S775,Miller,Camila,7,12,7,9,10,6,66,Laboratories,37.355,Medical Illustration and Animation
+S776,Aria,Violet,7,9,7,11,9,12,56,Laboratories,36.222,Medical Illustration and Animation
+S777,Moore,Morgan,8,9,12,12,8,8,64,Therapy,36.785,Not elligible
+S778,Isabella,Lillian,10,9,12,7,9,6,63,Surgery,36.497,Not elligible
+S779,Ella,Edwards,8,8,9,7,6,8,69,Nursing,34.961,Palliative Care and Hospice Services
+S780,Ellie,Sofia,12,11,7,6,7,9,82,Public Health,40.497,Reproductive Health
+S781,Victoria,Lewis,12,12,10,7,11,11,81,Laboratories,45.128,Forensic Science
+S782,Edwards,Evans,10,11,7,12,8,7,69,Medical Research,38.708,Epidemiology and Biostatistics
+S783,Penelope,Miller,9,8,7,6,7,6,68,Public Health,33.569,Health Education and Promotion
+S784,Wilson,Natalie,6,8,8,11,7,10,62,Public Health,35.713,Health Records and Information Technology
+S785,Campbell,Zoey,7,9,11,10,10,11,82,Nursing,43.831,Nursing
+S786,Hazel,Smith,12,7,10,10,11,10,62,Nursing,39.031,Palliative Care and Hospice Services
+S787,Amelia,Cooper,11,9,12,8,6,12,70,Surgery,40.497,Not elligible
+S788,Nora,Reed,10,8,10,8,12,9,58,Medical Research,36.863,Clinical Research
+S789,Amelia,Audrey,8,7,10,6,6,9,64,Medical Research,34.74,Not elligible
+S790,Rodriguez,Hazel,11,8,9,10,10,7,72,Nursing,39.54,Nursing
+S791,Ella,Garcia,6,12,7,10,7,10,64,Pharmacy,37.766,Not elligible
+S792,Harper,Campbell,8,6,7,12,12,8,81,Medical Research,43.028,Clinical Research
+S793,Carter,Morgan,6,7,7,7,7,9,79,Surgery,36.801,Not elligible
+S794,Lee,Garcia,9,6,10,12,7,9,62,Laboratories,36.206,Medical Illustration and Animation
+S795,Brown,Sophia,6,12,7,9,8,8,63,Medical Research,36.497,Not elligible
+S796,Gomez,Aria,12,8,7,8,9,11,62,Therapy,37.645,Nutrition and Dietetics
+S797,Luna,Claire,9,7,10,12,8,6,78,Laboratories,39.497,Medical Biotechnology
+S798,Nora,Simpson,8,6,9,6,7,12,78,Pharmacy,40.057,Not elligible
+S799,Claire,Carter,11,11,7,6,12,8,66,Nursing,37.857,Palliative Care and Hospice Services
+S800,Violet,Johnson,12,10,11,6,6,7,74,Pharmacy,39.016,Not elligible
+S801,Rodriguez,Evelyn,11,9,8,7,6,9,76,Nursing,38.426,Palliative Care and Hospice Services
+S802,Riley,Ellie,10,10,8,6,10,7,83,Surgery,40.743,Not elligible
+S803,Smith,Nora,12,6,12,12,6,9,65,Medical Research,38.06,Epidemiology and Biostatistics
+S804,Green,Cook,9,12,10,8,6,7,70,Medical Research,37.417,Epidemiology and Biostatistics
+S805,Zoe,Walker,11,7,9,9,10,11,83,Medical Research,44.097,Medical Anthropology
+S806,Abigail,Mitchell,7,8,9,7,7,7,77,Pharmacy,36.932,Not elligible
+S807,Jones,Amelia,10,12,11,10,7,7,60,Public Health,35.617,Health Records and Information Technology
+S808,Aurora,Lewis,7,9,10,12,8,9,77,Laboratories,40.89,Medical Physics
+S809,Scott,Lewis,6,11,12,10,9,6,64,Nursing,37.279,Palliative Care and Hospice Services
+S810,Miller,Barnes,11,6,12,12,6,8,59,Surgery,35.319,Not elligible
+S811,Allen,Avery,11,11,8,6,9,6,73,Public Health,37.66,Public Health
+S812,Rivera,Jones,6,11,9,11,6,11,67,Pharmacy,38.641,Not elligible
+S813,Savannah,Camila,8,6,10,10,11,10,68,Medical Research,38.929,Epidemiology and Biostatistics
+S814,Violet,Mia,12,9,7,7,10,12,63,Public Health,38.419,Health Systems Management
+S815,Parker,Brown,8,8,9,11,9,7,65,Nursing,36.056,Palliative Care and Hospice Services
+S816,Riley,Rodriguez,10,7,12,10,7,6,71,Pharmacy,37.683,Not elligible
+S817,Reed,Moore,9,12,9,11,10,7,70,Pharmacy,40.0,Not elligible
+S818,Mitchell,Gomez,11,8,6,11,11,11,59,Surgery,38.515,Not elligible
+S819,Walker,Scott,9,7,10,8,10,6,56,Medical Research,33.466,Not elligible
+S820,Grace,Smith,8,10,7,12,12,6,56,Nursing,35.777,Palliative Care and Hospice Services
+S821,Wright,King,9,12,8,6,12,6,82,Therapy,42.197,Nutrition and Dietetics
+S822,Aubrey,Victoria,12,8,7,10,11,9,64,Surgery,39.192,Not elligible
+S823,Aria,Audrey,7,9,6,11,6,12,67,Public Health,38.143,Health Education and Promotion
+S824,Lily,Hazel,7,8,6,10,10,8,73,Public Health,38.752,Public Health
+S825,Green,Olivia,6,6,12,6,11,12,58,Medical Research,36.863,Clinical Research
+S826,Lee,Gomez,6,7,11,9,11,12,75,Surgery,41.918,Not elligible
+S827,Savannah,Hannah,9,8,12,8,10,8,61,Therapy,36.87,Nutrition and Dietetics
+S828,Hazel,Johnson,12,11,8,6,7,6,60,Medical Research,33.637,Not elligible
+S829,Hall,Williams,6,6,8,12,7,9,71,Surgery,37.141,Not elligible
+S830,Mitchell,Lillian,12,9,9,12,12,8,69,Therapy,41.652,Speech Therapy
+S831,Barnes,Lee,6,10,9,12,10,7,67,Public Health,38.641,Reproductive Health
+S832,Morgan,Gomez,10,6,8,12,12,8,71,Therapy,41.28,Clinical Psychology
+S833,Lillian,Parker,7,7,10,6,10,12,81,Public Health,42.487,Public Health
+S834,Mitchell,Gomez,11,7,7,11,10,6,61,Therapy,36.395,Not elligible
+S835,Emily,Zoe,10,10,10,8,11,8,63,Therapy,37.47,Nutrition and Dietetics
+S836,Aria,Barnes,7,8,9,8,12,10,72,Therapy,40.057,Clinical Psychology
+S837,Mitchell,Harper,9,7,8,10,11,9,62,Therapy,37.171,Nutrition and Dietetics
+S838,Green,Amelia,6,12,10,11,8,9,56,Therapy,35.777,Not elligible
+S839,Gomez,Eleanor,9,9,9,7,6,6,61,Laboratories,32.338,Not elligible
+S840,Mia,Harper,9,11,12,11,7,7,75,Pharmacy,39.821,Not elligible
+S841,Chloe,Young,9,9,6,12,6,12,58,Nursing,35.952,Palliative Care and Hospice Services
+S842,Moore,Mila,6,8,10,8,11,9,59,Nursing,35.793,Palliative Care and Hospice Services
+S843,Parker,Scarlett,7,11,8,10,9,12,66,Public Health,39.799,Health Records and Information Technology
+S844,Abigail,Mitchell,11,8,12,11,12,10,83,Pharmacy,46.198,Pharmacy
+S845,Allen,Morgan,10,9,10,12,9,6,62,Public Health,36.206,Health Education and Promotion
+S846,Olivia,Abigail,8,10,6,6,6,9,58,Therapy,32.054,Not elligible
+S847,Sofia,Baker,12,11,12,10,10,12,61,Pharmacy,40.043,Not elligible
+S848,Barnes,Zoe,11,10,10,10,12,11,79,Surgery,44.568,Dental Surgery
+S849,King,Stella,7,7,12,10,9,6,55,Surgery,32.689,Not elligible
+S850,Camila,Parker,10,9,11,10,6,11,71,Pharmacy,39.265,Not elligible
+S851,Lillian,Jackson,10,11,9,9,12,10,77,Public Health,42.988,Public Health
+S852,Jackson,Zoey,6,9,8,9,9,8,71,Pharmacy,37.683,Not elligible
+S853,Campbell,Lee,11,7,8,6,10,10,62,Medical Research,37.171,Epidemiology and Biostatistics
+S854,Harper,Evelyn,10,7,6,11,6,10,61,Nursing,35.913,Palliative Care and Hospice Services
+S855,Green,Natalie,7,12,12,10,12,10,77,Laboratories,44.989,Forensic Science
+S856,Sophia,Ellie,8,7,12,10,7,12,72,Therapy,40.057,Occupational Therapy
+S857,Allen,Charlotte,9,10,9,9,7,8,80,Laboratories,39.424,Medical Illustration and Animation
+S858,Evelyn,Barnes,9,8,12,8,10,9,64,Laboratories,38.247,Medical Illustration and Animation
+S859,Lopez,Lily,9,6,8,6,10,12,58,Therapy,35.952,Not elligible
+S860,Scarlett,Lee,6,10,11,7,8,12,61,Nursing,37.804,Palliative Care and Hospice Services
+S861,Gonzalez,Mila,7,11,10,9,7,9,55,Public Health,34.101,Health Records and Information Technology
+S862,Hall,Bella,11,7,10,12,10,10,79,Medical Research,44.058,Pathology
+S863,Violet,Evelyn,10,7,11,6,9,12,75,Pharmacy,42.426,Pharmacy
+S864,Nelson,Isabella,12,7,7,10,8,7,59,Surgery,35.319,Not elligible
+S865,Brown,Ava,7,8,11,7,11,8,73,Therapy,39.814,Nutrition and Dietetics
+S866,Audrey,Johnson,9,8,10,8,6,9,56,Laboratories,32.985,Not elligible
+S867,Stella,Savannah,7,11,8,7,8,12,73,Medical Research,40.334,Medical Anthropology
+S868,Johnson,Harris,9,7,6,10,7,8,79,Laboratories,39.177,Medical Illustration and Animation
+S869,Ella,Leah,6,9,9,6,11,9,67,Public Health,38.143,Health Systems Management
+S870,Avery,Davis,6,6,12,7,10,12,81,Medical Research,43.028,Medical Anthropology
+S871,Williams,Abigail,6,6,11,9,8,11,78,Surgery,40.057,Not elligible
+S872,Hannah,Isabella,12,12,6,12,7,12,58,Nursing,37.751,Palliative Care and Hospice Services
+S873,Jones,Lopez,9,11,6,12,6,11,81,Therapy,43.028,Radiography
+S874,Johnson,Barnes,6,7,11,10,7,6,84,Therapy,38.575,Orthotics and Prosthetics
+S875,Hannah,Audrey,8,10,12,9,7,10,64,Medical Research,37.766,Epidemiology and Biostatistics
+S876,Green,Nora,12,8,12,10,8,6,58,Nursing,35.488,Palliative Care and Hospice Services
+S877,Taylor,Brooklyn,7,8,12,11,10,6,56,Nursing,33.941,Not elligible
+S878,Lillian,Emma,9,9,6,11,8,8,77,Public Health,39.799,Health Education and Promotion
+S879,Anderson,Aurora,9,8,11,11,11,11,62,Pharmacy,38.575,Not elligible
+S880,Miller,Campbell,10,6,8,12,12,7,64,Therapy,38.722,Nutrition and Dietetics
+S881,Miller,Harris,12,8,7,9,11,11,69,Therapy,41.176,Nutrition and Dietetics
+S882,Mila,Martinez,8,12,11,6,12,8,72,Therapy,42.061,Radiography
+S883,Lopez,Eleanor,12,9,6,11,9,8,78,Therapy,42.224,Nutrition and Dietetics
+S884,Elizabeth,Aurora,6,8,8,10,6,10,60,Pharmacy,34.143,Not elligible
+S885,Olivia,Wilson,7,6,7,8,9,8,75,Laboratories,37.033,Medical Biotechnology
+S886,Martinez,Zoe,8,9,8,7,9,6,70,Pharmacy,35.777,Not elligible
+S887,Gonzalez,Aria,10,11,6,8,10,10,66,Pharmacy,38.352,Not elligible
+S888,Natalie,Hazel,12,10,7,9,12,6,55,Laboratories,35.01,Medical Illustration and Animation
+S889,Simpson,Hazel,9,6,8,10,12,9,78,Medical Research,42.224,Medical Imaging Sciences
+S890,Ella,Davis,7,7,9,8,10,9,77,Laboratories,39.243,Medical Laboratory Sciences
+S891,Anderson,Evans,11,10,12,12,10,10,84,Nursing,45.431,Nursing
+S892,Barnes,Reyes,6,11,11,12,10,6,72,Laboratories,40.057,Medical Biotechnology
+S893,Barnes,Leah,9,9,9,6,8,8,56,Surgery,32.985,Not elligible
+S894,Natalie,Carter,11,12,11,7,9,12,84,Public Health,45.957,Public Health
+S895,Abigail,Scarlett,6,9,11,6,10,8,83,Public Health,42.453,Health Education and Promotion
+S896,Evans,Aurora,7,8,6,8,11,11,68,Medical Research,38.426,Clinical Research
+S897,Cooper,Amelia,7,9,7,9,10,7,69,Pharmacy,37.148,Not elligible
+S898,Camila,Lopez,8,9,7,11,9,6,58,Pharmacy,34.059,Not elligible
+S899,Williams,Audrey,11,11,11,6,8,8,73,Nursing,39.814,Nursing
+S900,Wilson,Nelson,10,12,7,6,12,6,82,Surgery,41.638,Not elligible
+S901,Carter,Isabella,8,8,12,10,7,6,75,Medical Research,37.607,Epidemiology and Biostatistics
+S902,Smith,Grace,9,12,9,8,12,11,83,Nursing,45.682,Nursing
+S903,Charlotte,Hazel,7,11,6,9,8,12,61,Surgery,37.34,Not elligible
+S904,Evans,Amelia,7,11,12,10,7,10,77,Public Health,41.952,Public Health
+S905,Gomez,Rodriguez,12,11,12,11,10,10,69,Nursing,41.652,Nursing
+S906,Sophia,Nelson,7,9,9,11,6,9,55,Public Health,33.166,Health Education and Promotion
+S907,Amelia,Davis,9,11,12,8,7,9,60,Nursing,36.567,Palliative Care and Hospice Services
+S908,Camila,Allen,12,7,11,8,8,7,79,Pharmacy,41.418,Not elligible
+S909,Amelia,Sophia,9,12,9,6,10,10,65,Surgery,39.024,Not elligible
+S910,Riley,Harper,7,7,12,9,6,12,71,Medical Research,38.745,Clinical Research
+S911,Zoe,Ava,11,6,11,11,12,11,61,Pharmacy,39.605,Not elligible
+S912,Aubrey,Nora,11,9,12,9,8,12,58,Nursing,37.751,Palliative Care and Hospice Services
+S913,Emma,King,11,6,8,12,7,9,59,Medical Research,36.261,Not elligible
+S914,Campbell,Isabella,9,10,9,6,6,10,61,Nursing,34.928,Palliative Care and Hospice Services
+S915,Stella,Scarlett,8,12,11,9,9,10,57,Surgery,36.986,Not elligible
+S916,Cook,Wilson,6,11,6,9,10,6,74,Nursing,39.016,Palliative Care and Hospice Services
+S917,Olivia,Jones,7,9,9,8,11,12,77,Laboratories,42.474,Medical Physics
+S918,Grace,Brown,11,12,6,8,7,9,71,Medical Research,38.217,Clinical Research
+S919,Walker,Olivia,12,8,9,6,12,11,57,Laboratories,37.857,Medical Illustration and Animation
+S920,Turner,Audrey,7,10,7,6,9,6,55,Medical Research,31.713,Not elligible
+S921,Chloe,Gomez,10,9,9,8,10,10,79,Medical Research,41.959,Clinical Research
+S922,Olivia,Lewis,12,12,10,8,9,6,71,Public Health,38.745,Health Systems Management
+S923,Reyes,Nelson,8,6,7,6,10,11,62,Medical Research,35.713,Not elligible
+S924,Anderson,Mila,11,9,9,10,6,7,71,Laboratories,37.141,Medical Biotechnology
+S925,Edwards,Luna,11,6,8,10,7,9,68,Pharmacy,37.917,Not elligible
+S926,Reed,Aria,6,10,10,6,8,11,74,Medical Research,40.61,Epidemiology and Biostatistics
+S927,Lewis,Perez,6,6,11,12,6,12,69,Laboratories,37.675,Medical Illustration and Animation
+S928,Wright,Olivia,7,9,7,7,7,9,81,Nursing,38.486,Palliative Care and Hospice Services
+S929,Parker,Eleanor,8,6,9,11,7,7,55,Medical Research,32.205,Not elligible
+S930,Harris,Taylor,8,6,9,11,7,12,80,Therapy,41.679,Clinical Psychology
+S931,Johnson,Audrey,11,9,10,11,10,9,82,Laboratories,43.831,Medical Physics
+S932,Lewis,Lopez,10,9,6,7,12,7,71,Laboratories,38.217,Medical Illustration and Animation
+S933,Baker,Aubrey,8,10,8,8,7,6,62,Laboratories,33.14,Not elligible
+S934,Savannah,Lily,12,7,12,10,10,12,57,Public Health,38.708,Environmental Health
+S935,Gomez,Lily,12,8,6,12,6,8,68,Surgery,38.426,Not elligible
+S936,Zoey,Amelia,9,12,8,6,12,12,71,Public Health,42.251,Environmental Health
+S937,Amelia,Lopez,6,8,11,12,9,7,69,Therapy,37.675,Nutrition and Dietetics
+S938,Leah,Savannah,6,6,11,11,6,12,63,Medical Research,35.496,Not elligible
+S939,Parker,Gomez,10,10,7,11,7,6,58,Surgery,33.569,Not elligible
+S940,Lee,Claire,10,11,9,12,12,8,69,Pharmacy,41.176,Not elligible
+S941,Allen,Reed,9,9,9,6,8,7,79,Laboratories,38.597,Medical Laboratory Sciences
+S942,Walker,Young,11,8,6,6,11,8,79,Pharmacy,40.313,Not elligible
+S943,Emily,Mia,10,11,9,8,10,7,58,Nursing,35.018,Palliative Care and Hospice Services
+S944,Simpson,Aurora,7,6,9,9,7,6,72,Public Health,34.542,Health Records and Information Technology
+S945,Madison,Brooklyn,11,11,7,11,8,11,68,Pharmacy,39.914,Not elligible
+S946,Charlotte,Stella,11,6,8,9,12,7,78,Pharmacy,41.693,Not elligible
+S947,Turner,Walker,11,6,6,12,6,12,66,Public Health,39.323,Environmental Health
+S948,Amelia,Ava,7,11,12,6,11,9,72,Therapy,42.061,Clinical Psychology
+S949,Nelson,Rodriguez,7,12,8,7,12,9,66,Pharmacy,39.323,Not elligible
+S950,Allen,Mila,6,10,10,11,6,12,84,Medical Research,43.267,Clinical Research
+S951,Zoe,Allen,9,6,12,7,12,10,67,Laboratories,40.574,Medical Biotechnology
+S952,Bella,Barnes,10,6,11,8,10,12,60,Surgery,38.396,Not elligible
+S953,Reyes,Eleanor,10,10,10,8,11,12,63,Pharmacy,39.345,Not elligible
+S954,Lily,Garcia,12,11,8,6,10,11,64,Pharmacy,38.722,Not elligible
+S955,Evans,Ella,10,12,7,12,11,12,74,Medical Research,44.581,Clinical Research
+S956,Martinez,Natalie,12,11,8,7,11,10,84,Pharmacy,44.362,Pharmacy
+S957,Lily,Young,6,7,7,12,8,11,70,Surgery,38.987,Not elligible
+S958,Lewis,Perez,12,9,10,10,9,10,60,Laboratories,37.493,Medical Illustration and Animation
+S959,Taylor,Adams,11,8,7,6,10,12,70,Nursing,40.0,Nursing
+S960,Avery,Johnson,9,8,12,11,10,11,75,Medical Research,42.426,Medical Imaging Sciences
+S961,Campbell,Turner,10,9,10,7,12,11,84,Nursing,45.431,Nursing
+S962,Claire,Riley,11,10,6,12,11,8,61,Therapy,38.262,Nutrition and Dietetics
+S963,Lewis,Zoey,12,7,9,11,7,6,73,Nursing,38.752,Palliative Care and Hospice Services
+S964,Amelia,Grace,8,12,7,12,9,12,79,Pharmacy,45.071,Pharmacy
+S965,Baker,Violet,9,11,10,12,12,8,65,Surgery,39.964,Not elligible
+S966,Nora,Penelope,7,12,10,9,8,12,68,Nursing,40.398,Palliative Care and Hospice Services
+S967,Natalie,Mia,10,8,12,6,7,8,64,Therapy,36.785,Not elligible
+S968,Elizabeth,Emily,8,6,8,11,12,12,84,Pharmacy,45.431,Pharmacy
+S969,Aria,Emma,11,8,11,11,12,10,79,Medical Research,44.568,Medical Imaging Sciences
+S970,Eleanor,Scarlett,7,12,6,12,8,10,84,Nursing,44.9,Palliative Care and Hospice Services
+S971,Ava,Lewis,8,10,12,6,7,10,71,Public Health,39.778,Environmental Health
+S972,Ella,Gomez,6,7,8,9,6,6,61,Nursing,31.241,Not elligible
+S973,Allen,Scarlett,12,9,11,12,7,7,64,Surgery,37.279,Not elligible
+S974,Mia,Hazel,6,8,7,9,10,6,71,Surgery,36.59,Not elligible
+S975,Ava,Aria,8,12,6,7,12,10,77,Pharmacy,42.474,Pharmacy
+S976,Ava,Hannah,6,11,7,10,8,7,82,Medical Research,41.071,Medical Anthropology
+S977,Charlotte,Olivia,8,9,8,7,6,7,72,Medical Research,35.132,Not elligible
+S978,Morgan,Wilson,10,6,11,7,8,8,55,Surgery,34.101,Not elligible
+S979,Layla,Allen,8,11,8,8,7,8,72,Nursing,37.401,Palliative Care and Hospice Services
+S980,Harris,Bella,8,8,12,7,12,10,70,Pharmacy,40.988,Not elligible
+S981,Ava,Anderson,9,9,7,11,6,8,61,Nursing,34.426,Palliative Care and Hospice Services
+S982,Perez,Ella,6,6,7,10,7,9,72,Medical Research,36.285,Not elligible
+S983,Mila,Campbell,7,10,10,9,12,11,62,Pharmacy,39.031,Not elligible
+S984,Mitchell,Taylor,6,11,7,9,11,6,62,Medical Research,36.206,Not elligible
+S985,Savannah,Taylor,8,11,10,12,9,9,68,Surgery,39.914,Not elligible
+S986,Lopez,Savannah,11,11,11,9,7,11,57,Pharmacy,36.095,Not elligible
+S987,Amelia,Aurora,11,10,6,9,11,10,73,Laboratories,41.356,Forensic Science
+S988,Wright,Reed,12,12,12,12,12,9,65,Surgery,40.883,Not elligible
+S989,Brooklyn,Aria,7,6,11,6,8,9,82,Laboratories,40.497,Medical Laboratory Sciences
+S990,Moore,Ava,9,9,6,9,8,8,83,Laboratories,40.157,Medical Laboratory Sciences
+S991,Lewis,Riley,10,7,6,12,11,6,77,Medical Research,41.425,Epidemiology and Biostatistics
+S992,Turner,Addison,8,8,7,7,8,10,83,Nursing,39.562,Palliative Care and Hospice Services
+S993,Simpson,Lillian,6,8,9,11,7,6,83,Nursing,38.958,Palliative Care and Hospice Services
+S994,Layla,Evans,6,7,10,9,6,8,79,Public Health,37.409,Health Records and Information Technology
+S995,Rodriguez,Rivera,11,9,8,9,9,11,71,Public Health,40.285,Public Health
+S996,Baker,Reyes,8,12,10,7,12,8,75,Public Health,42.426,Environmental Health
+S997,Scarlett,Penelope,10,9,10,12,11,10,57,Laboratories,37.424,Medical Illustration and Animation
+S998,Sophia,Zoey,12,12,10,11,10,11,84,Therapy,45.957,Clinical Psychology
+S999,Walker,Hall,11,10,9,8,10,6,81,Therapy,40.82,Speech Therapy
+S1000,Williams,Rivera,10,6,6,6,8,9,75,Public Health,37.607,Public Health
