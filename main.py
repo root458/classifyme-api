@@ -134,7 +134,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def say_hello():
-   return jsonify({'greeting': 'Hello'})
+   return jsonify({'greeting': 'Hello from ClassifyMe!'})
 
 @app.route('/recommendations', methods=['GET', 'POST'])
 def predict():
@@ -142,28 +142,26 @@ def predict():
     input_data = request.get_json()
 
     # Add user ID
-    # input_data['user_id'] = 'user_120'
+    input_data['user_id'] = 'user_120'
 
-    # # Add Job satistaction
-    # input_data['Job_satisfaction'] = 0.00
+    # Add Job satistaction
+    input_data['Job_satisfaction'] = 0.00
 
-    # # Get DataFrame from JSON input
-    # df = json_to_df(input_data)
-    # df['Interest'].unique()
+    # Get DataFrame from JSON input
+    df = json_to_df(input_data)
+    df['Interest'].unique()
 
-    # mapping = [{'col': 'Interest', 'mapping': {'Public Health': 1,  'Laboratories': 2,
-    #                                         'Nursing': 3, 'Medical Research': 4,
-    #                                         'Therapy': 5, 'Pharmacy': 5, 'Surgery': 6}}]
-    # # Create an OrdinalEncoder object and fit it to the DataFrame
-    # encoder = OrdinalEncoder(cols=['Interest'], mapping=mapping)
-    # encoder.fit(df)
+    mapping = [{'col': 'Interest', 'mapping': {'Public Health': 1,  'Laboratories': 2,
+                                            'Nursing': 3, 'Medical Research': 4,
+                                            'Therapy': 5, 'Pharmacy': 5, 'Surgery': 6}}]
+    # Create an OrdinalEncoder object and fit it to the DataFrame
+    encoder = OrdinalEncoder(cols=['Interest'], mapping=mapping)
+    encoder.fit(df)
 
-    # # Load dataframe
-    # courses_catalogue = pd.read_csv('datasets/courses_catalogue.csv')
+    # Load dataframe
+    courses_catalogue = pd.read_csv('datasets/courses_catalogue.csv')
 
-    # predictions = get_course_recommendations('user_120', df, courses_catalogue)
-
-    predictions = ['Medicine & Surgery', 'Dental Surgery', 'Pharmacy']
+    predictions = get_course_recommendations('user_120', df, courses_catalogue)
 
     # print(predictions)
     return jsonify({'recommended_courses': predictions})
