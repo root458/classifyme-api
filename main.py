@@ -3,6 +3,7 @@ import json
 import math
 from category_encoders import OrdinalEncoder
 from flask import Flask, request, jsonify
+from flask_accept import accept
 from surprise import dump
 from surprise import Reader, Dataset
 import os
@@ -117,8 +118,10 @@ def say_hello():
    return jsonify({'greeting': 'Hello from ClassifyMe!'})
 
 @app.route('/recommendations', methods=['GET', 'POST'])
+@accept('*/*')
 def predict():
     # Get user input as JSON
+    print(request)
     input_data = request.get_json()
 
     # Add user ID
@@ -154,8 +157,8 @@ def predict():
 def middleware():
     # Log the request method and path
     new_headers = dict(request.headers)
-    new_headers['Accept'] = 'application/json'
-    request.headers = new_headers
+    # new_headers['Accept'] = 'application/json'
+    # request.headers = new_headers
 
 if __name__ == "__main__":
     app.run()
