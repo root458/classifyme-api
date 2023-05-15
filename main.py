@@ -153,8 +153,9 @@ def predict():
 @app.before_request
 def middleware():
     # Log the request method and path
-    print(request.method, request.path)
-    print(request.headers)
+    new_headers = dict(request.headers)
+    new_headers['Accept'] = 'application/json'
+    request.headers = new_headers
 
 if __name__ == "__main__":
     app.run()
