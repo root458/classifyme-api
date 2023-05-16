@@ -78,7 +78,7 @@ def get_course_recommendations1(user_id, df):
     return recommended_courses
 
 
-def get_three_random(courses):
+def get_three_courses(courses):
     if len(courses) < 3:
           raise random.shuffle(courses)
     return random.sample(courses, 3)
@@ -115,7 +115,7 @@ def get_course_recommendations(user_id, df, courses_catalogue):
 
     courses = recommended_courses['Course_name'].tolist()
 
-    return get_three_random(courses)
+    return get_three_courses(courses)
 
 app = Flask(__name__)
 
