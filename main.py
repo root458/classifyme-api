@@ -92,14 +92,15 @@ def get_course_recommendations(user_id, df, courses_catalogue):
     reader = Reader(rating_scale=(1, 5))
 
     # Load the dataframe into a Surprise Dataset object
-    data = Dataset.load_from_df(df[['user_id', 'Interest', 'Job_satisfaction']], reader)
+    # data = Dataset.load_from_df(df[['user_id', 'Interest', 'Job_satisfaction']], reader)
 
     # Build a testset from the Dataset object
-    testset = data.build_full_trainset()
+    # testset = data.build_full_trainset()
 
     # Retain only courses within interest from the user
     interest = df['Interest'].unique()[0]
     filtered_catalogue = courses_catalogue[courses_catalogue['Interest'] == interest]
+    # filtered_catalogue = courses_catalogue[courses_catalogue['Weighted_points'] >= cluster_points(df)]
 
     # Get the list of course names from the filtered course catalogue
     course_names = filtered_catalogue['Course_name'].tolist()
@@ -134,7 +135,9 @@ def predict():
     input_data['user_id'] = 'user_120'
 
     # Add Job satistaction
-    input_data['Job_satisfaction'] = 0.00
+    input_data['Overall_Grade'] = 76
+
+    input_data['points'] = 22
 
     # Get DataFrame from JSON input
     df = json_to_df(input_data)
