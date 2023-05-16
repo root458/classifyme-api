@@ -8,6 +8,7 @@ from surprise import dump
 from surprise import Reader, Dataset
 import os
 import pickle
+import random
 
 # Load DataFrame from JSON
 def json_to_df(json_data):
@@ -77,7 +78,10 @@ def get_course_recommendations1(user_id, df):
     return recommended_courses
 
 
-
+def get_three_random(courses):
+    if len(courses) < 3:
+          raise random.shuffle(courses)
+    return random.sample(courses, 3)
 
 def get_course_recommendations(user_id, df, courses_catalogue):
     # Load the trained KNNBaseline model from a file using pickle
@@ -109,7 +113,9 @@ def get_course_recommendations(user_id, df, courses_catalogue):
     # Get the course details for the recommended courses, sorted by predicted job satisfaction
     recommended_courses = filtered_catalogue.loc[filtered_catalogue['Course_name'].isin(course_names)][['Course_name', 'Job_satisfaction']].sort_values('Job_satisfaction', ascending=False)
 
-    return recommended_courses.head(3)['Course_name'].tolist()
+    courses = recommended_courses['Course_name'].tolist()
+
+    return get_three_random(courses)
 
 app = Flask(__name__)
 
