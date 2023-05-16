@@ -171,7 +171,7 @@ def middleware():
     print(request.args)
     print('Printed')
     new_headers = dict(request.headers)
-    new_headers['Accept'] = 'application/json'
+    # new_headers['Accept'] = 'application/json'
     new_headers['Content-Type'] = 'application/json'
     request.headers = new_headers
 
