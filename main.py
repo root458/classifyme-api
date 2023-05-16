@@ -167,6 +167,7 @@ def middleware():
     # Log the request method and path
     new_headers = dict(request.headers)
     new_headers['Accept'] = 'application/json'
+    new_headers['Content-Type'] = 'application/json'
     request.headers = new_headers
 
 @app.after_request
