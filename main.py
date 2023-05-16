@@ -166,8 +166,8 @@ def predict():
 def middleware():
     # Log the request method and path
     new_headers = dict(request.headers)
-    # new_headers['Accept'] = 'application/json'
-    # request.headers = new_headers
+    new_headers['Accept'] = 'application/json'
+    request.headers = new_headers
 
 @app.after_request
 def after_request(response):
